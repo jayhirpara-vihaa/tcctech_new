@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "version": 4.6,
+    "type": "DiamondMaterial",
+    "generator": "DiamondMaterial.toJSON"
+  },
+  "name": "Yellow E",
+  "uuid": "1c5be0c0-4947-4bd2-8c32-ad34580be24a",
+  "color": 2071004,
+  "envMapIntensity": 1,
+  "envMapIndex": 0,
+  "envMapRotationOffset": 0,
+  "dispersion": 0.012,
+  "squashFactor": 0.98,
+  "geometryFactor": 0.5,
+  "gammaFactor": 1,
+  "absorptionFactor": 1,
+  "reflectivity": 0.5,
+  "refractiveIndex": 1.9999999999999998,
+  "rayBounces": 15,
+  "diamondOrientedEnvMap": 0,
+  "boostFactors": {
+    "x": 0.892,
+    "y": 0.892,
+    "z": 0.98595025,
+    "isVector3": true
+  },
+  "transmission": 0,
+  "isDiamondMaterialParameters": true,
+  "type": "DiamondMaterial",
+  "userData": {
+    "separateEnvMapIntensity": true,
+    "_baseMaterial": "788d8dcb-3829-4879-befc-58edc55661f7",
+    "uuid": "1c5be0c0-4947-4bd2-8c32-ad34580be24a"
+  }
+}

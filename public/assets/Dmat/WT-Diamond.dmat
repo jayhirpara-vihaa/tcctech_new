@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "version": 4.6,
+    "type": "DiamondMaterial",
+    "generator": "DiamondMaterial.toJSON"
+  },
+  "name": "Gem 01",
+  "uuid": "6fa5c69e-6ca9-454d-b6ef-1e081494674f",
+  "color": 16777215,
+  "envMapIntensity": 1.4000000000000001,
+  "envMapIndex": 0,
+  "envMapRotationOffset": 0,
+  "dispersion": 0.012,
+  "squashFactor": 0.98,
+  "geometryFactor": 0.5,
+  "gammaFactor": 1,
+  "absorptionFactor": 1,
+  "reflectivity": 0.5,
+  "refractiveIndex": 2.4,
+  "rayBounces": 5,
+  "diamondOrientedEnvMap": 0,
+  "boostFactors": {
+    "x": 0.892,
+    "y": 0.892,
+    "z": 0.98595025,
+    "isVector3": true
+  },
+  "transmission": 0,
+  "isDiamondMaterialParameters": true,
+  "type": "DiamondMaterial",
+  "userData": {
+    "separateEnvMapIntensity": true,
+    "_baseMaterial": "50db1ae7-98cd-49d1-a75a-e125225b7865",
+    "uuid": "6fa5c69e-6ca9-454d-b6ef-1e081494674f"
+  }
+}

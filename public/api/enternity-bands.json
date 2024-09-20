@@ -1,0 +1,584 @@
+{
+    "center_diamond": {
+        "title": "Center Stone",
+        "component": [
+            {
+                "id": 1,
+                "name": "Diamond",
+                "sort_code": "D",
+                "price": 1001,
+                "image": "/assets/images/config_image/center-diamond/diamond.png"
+            },
+            {
+                "id": 2,
+                "name": "Alternate Gemstone",
+                "sort_code": "G",
+                "price": 0,
+                "image": "/assets/images/config_image/center-diamond/gemstone.png"
+            }
+        ]
+    },
+    "diamond_center": {
+        "title": "Center Diamond",
+        "component": [
+            {
+                "id": 1,
+                "sort_code": "NATURAL",
+                "name": "Natural",
+                "price": 1500,
+                "image": "/assets/images/config_image/center-diamond/diamond.png"
+            },
+            {
+                "id": 2,
+                "sort_code": "LABGROWN",
+                "name": "Labgrown",
+                "price": 1000,
+                "image": "/assets/images/config_image/center-diamond/diamond.png"
+            }
+        ]
+    },
+    "center_Gemstone": {
+        "title": "Center Gemstone",
+        "component": [
+            {
+                "id": 1,
+                "sort_code": "BLUE",
+                "name": "Natural Sapphire",
+                "price": 500,
+                "is_natural": 1,
+                "image_path": "images/gemstones/image-Round.png-1686649476590.png"
+            },
+            {
+                "id": 2,
+                "sort_code": "GREEN",
+                "name": "Natural Emerald",
+                "price": 600,
+                "is_natural": 1,
+                "image_path": "images/gemstones/image-Round (4).png-1686649469410.png"
+            },
+            {
+                "id": 3,
+                "name": "Natural Ruby",
+                "sort_code": "RUBY",
+                "price": 700,
+                "is_natural": 1,
+                "image_path": "images/gemstones/image-Round (2).png-1686649482637.png"
+            },
+            {
+                "id": 4,
+                "name": "Natural Yellow Sapphire",
+                "sort_code": "YELLOW",
+                "price": 800,
+                "is_natural": 1,
+                "image_path": "images/gemstones/image-Round (3).png-1686649457647.png"
+            },
+            {
+                "id": 5,
+                "sort_code": "BLUE",
+                "name": "Simulated Sapphire",
+                "price": 500,
+                "is_natural": 0,
+                "image_path": "images/gemstones/image-Round.png-1686649476590.png"
+            },
+            {
+                "id": 6,
+                "sort_code": "GREEN",
+                "name": "Simulated Emerald",
+                "price": 600,
+                "is_natural": 0,
+                "image_path": "images/gemstones/image-Round (4).png-1686649469410.png"
+            },
+            {
+                "id": 7,
+                "name": "Simulated Ruby",
+                "sort_code": "RUBY",
+                "price": 700,
+                "is_natural": 0,
+                "image_path": "images/gemstones/image-Round (2).png-1686649482637.png"
+            },
+            {
+                "id": 8,
+                "name": "Simulated Yellow Sapphire",
+                "sort_code": "YELLOW",
+                "price": 800,
+                "is_natural": 0,
+                "image_path": "images/gemstones/image-Round (3).png-1686649457647.png"
+            }
+        ]
+    },
+    "center_diamond_shape": {
+        "title": "Center Stone Shape",
+        "selcted": "Oval",
+        "component": [
+            {
+                "id": 1,
+                "name": "Round",
+                "is_diamond": 3,
+                "sort_code": "RD",
+                "price": 643,
+                "glb_name": "TCC-RN-CR-32185-Round-Eternity-10",
+                "diamond_size_id": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "image_path": "static/shapes/round.png"
+            },
+            {
+                "id": 2,
+                "name": "Oval",
+                "is_diamond": 3,
+                "sort_code": "OV",
+                "price": 849,
+                "glb_name": "TCC-RN-CR-32195-Oval-Eternity-10",
+                "diamond_size_id": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "image_path": "static/shapes/oval.png"
+            },
+            {
+                "id": 3,
+                "name": "Emerald",
+                "is_diamond": 3,
+                "sort_code": "EM",
+                "price": 632,
+                "glb_name": "TCC-RN-CR-32200-Emerald-Eternity-10",
+                "diamond_size_id": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "image_path": "static/shapes/emerald.png"
+            },
+            {
+                "id": 4,
+                "name": "Pear",
+                "is_diamond": 3,
+                "sort_code": "PE",
+                "price": 534,
+                "diamond_size_id": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "image_path": "static/shapes/pear.png"
+            },
+            {
+                "id": 5,
+                "name": "Princess",
+                "is_diamond": 3,
+                "sort_code": "PR",
+                "glb_name": "TCC-RN-CR-32190-Princess-Eternity-10",
+                "price": 844,
+                "diamond_size_id": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "image_path": "static/shapes/princess.png"
+            },
+            {
+                "id": 6,
+                "name": "Radiant",
+                "is_diamond": 3,
+                "sort_code": "RA",
+                "price": 725,
+                "diamond_size_id": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "image_path": "static/shapes/radiant.png"
+            },
+            {
+                "id": 7,
+                "name": "Marquise",
+                "is_diamond": 3,
+                "sort_code": "MQ",
+                "price": 985,
+                "diamond_size_id": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "image_path": "static/shapes/marquise.png"
+            }
+        ]
+    },
+    "center_diamond_size": {
+        "title": "Center Diamond Size",
+        "component": [
+            {
+                "id": 1,
+                "sort_code": "050",
+                "image_path": "static/size/0.5.png",
+                "glbData": [
+                    {
+                        "id": 1,
+                        "sort_code": "RD",
+                        "name": "TCC-RN-CR-32185-Round-Eternity-10"
+                    },
+                    {
+                        "id": 2,
+                        "sort_code": "OV",
+                        "name": "TCC-RN-CR-32195-Oval-Eternity-10"
+                    },
+                    {
+                        "id": 3,
+                        "sort_code": "EM",
+                        "name": "TCC-RN-CR-32200-Emerald-Eternity-10"
+                    },
+                    {
+                        "id": 4,
+                        "sort_code": "PR",
+                        "name": "TCC-RN-CR-32190-Princess-Eternity-10"
+                    }
+                ],
+                "price": 250,
+                "value": "0.50"
+            },
+            {
+                "id": 2,
+                "sort_code": "075",
+                "price": 375,
+                "image_path": "static/size/0.75.png",
+                "value": "0.75",
+                "glbData": [
+                    {
+                        "id": 1,
+                        "sort_code": "RD",
+                        "name": "TCC-RN-CR-32186-Round-Eternity-15"
+                    },
+                    {
+                        "id": 2,
+                        "sort_code": "OV",
+                        "name": "TCC-RN-CR-32196-Oval-Eternity-15"
+                    },
+                    {
+                        "id": 3,
+                        "sort_code": "EM",
+                        "name": "TCC-RN-CR-32201-Emerald-Eternity-15"
+                    },
+                    {
+                        "id": 4,
+                        "sort_code": "PR",
+                        "name": "TCC-RN-CR-32191-Princess-Eternity-15"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "sort_code": "100",
+                "price": 400,
+                "image_path": "static/size/1.0.png",
+                "value": "1.00",
+                "glbData": [
+                    {
+                        "id": 1,
+                        "sort_code": "RD",
+                        "name": "TCC-RN-CR-32187-Round-Eternity-20"
+                    },
+                    {
+                        "id": 2,
+                        "sort_code": "OV",
+                        "name": "TCC-RN-CR-32197-Oval-Eternity-20"
+                    },
+                    {
+                        "id": 3,
+                        "sort_code": "EM",
+                        "name": "TCC-RN-CR-32202-Emerald-Eternity-20"
+                    },
+                    {
+                        "id": 4,
+                        "sort_code": "PR",
+                        "name": "TCC-RN-CR-32192-Princess-Eternity-20"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "sort_code": "150",
+                "price": 472,
+                "image_path": "static/size/1.5.png",
+                "value": "1.50",
+                "glbData": [
+                    {
+                        "id": 1,
+                        "sort_code": "RD",
+                        "name": "TCC-RN-CR-32188-Round-Eternity-25"
+                    },
+                    {
+                        "id": 2,
+                        "sort_code": "OV",
+                        "name": "TCC-RN-CR-32198-Oval-Eternity-25"
+                    },
+                    {
+                        "id": 3,
+                        "sort_code": "EM",
+                        "name": "TCC-RN-CR-32203-Emerald-Eternity-25"
+                    },
+                    {
+                        "id": 4,
+                        "sort_code": "PR",
+                        "name": "TCC-RN-CR-32193-Princess-Eternity-25"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "sort_code": "200",
+                "price": 532,
+                "image_path": "static/size/2.0.png",
+                "glb_name": "TCC-RN-CR-32189-Round-Eternity-30",
+                "value": "2.00",
+                "glbData": [
+                    {
+                        "id": 1,
+                        "sort_code": "RD",
+                        "name": "TCC-RN-CR-32189-Round-Eternity-30"
+                    },
+                    {
+                        "id": 2,
+                        "sort_code": "OV",
+                        "name": "TCC-RN-CR-32199-Oval-Eternity-30"
+                    },
+                    {
+                        "id": 3,
+                        "sort_code": "EM",
+                        "name": "TCC-RN-CR-32204-Emerald-Eternity-30"
+                    },
+                    {
+                        "id": 4,
+                        "sort_code": "PR",
+                        "name": "TCC-RN-CR-32194-Princess-Eternity-30"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "sort_code": "300",
+                "price": 632,
+                "image_path": "static/size/3.0.png",
+                "value": "3.00"
+            }
+        ]
+    },
+    "center_diamond_cut": [
+        {
+            "id": 1,
+            "name": "Best",
+            "price": 500
+        },
+        {
+            "id": 2,
+            "name": "Better",
+            "price": 1000
+        },
+        {
+            "id": 3,
+            "name": "Good",
+            "price": 1500
+        }
+    ],
+    "center_diamond_clarity": [
+        {
+            "id": 1,
+            "color_name": "I",
+            "clarity_name": "I1",
+            "price": 200
+        },
+        {
+            "id": 3,
+            "color_name": "H",
+            "clarity_name": "SI",
+            "price": 300
+        },
+        {
+            "id": 2,
+            "color_name": "G",
+            "price": 350,
+            "clarity_name": "VS"
+        }
+    ],
+    "ring_shank_style": {
+        "title": "Shank Type",
+        "component": [
+            {
+                "id": 1,
+                "price": 1000,
+                "sort_code": "PL",
+                "is_peekaboo": 1,
+                "design_identifier": "plain",
+                "image_path": "static/shank/plain.png",
+                "side_setting_id": [
+                    1,
+                    5,
+                    6,
+                    8
+                ],
+                "name": "Plain"
+            },
+            {
+                "id": 2,
+                "price": 2000,
+                "is_peekaboo": 0,
+                "sort_code": "TW",
+                "design_identifier": "twisted",
+                "image_path": "static/shank/twisted.png",
+                "side_setting_id": [
+                    1,
+                    5,
+                    6,
+                    8
+                ],
+                "name": "Twist"
+            },
+            {
+                "id": 3,
+                "price": 1834,
+                "sort_code": "CA",
+                "is_peekaboo": 0,
+                "design_identifier": "cathedral",
+                "image_path": "static/shank/cathedrial.png",
+                "side_setting_id": [
+                    1,
+                    5,
+                    6,
+                    8
+                ],
+                "name": "Cathedral"
+            },
+            {
+                "id": 5,
+                "price": 2454,
+                "sort_code": "SP",
+                "is_peekaboo": 0,
+                "design_identifier": "sp",
+                "image_path": "static/shank/split.png",
+                "side_setting_id": [
+                    1,
+                    5,
+                    6,
+                    7
+                ],
+                "name": "Split"
+            },
+            {
+                "id": 7,
+                "price": 2413,
+                "sort_code": "KE",
+                "is_peekaboo": 0,
+                "design_identifier": "KE",
+                "image_path": "static/shank/knifeedge.png",
+                "side_setting_id": [
+                    1,
+                    5,
+                    7,
+                    8
+                ],
+                "name": "Knife Edge"
+            },
+            {
+                "id": 8,
+                "price": 2576,
+                "sort_code": "WD",
+                "is_peekaboo": 0,
+                "design_identifier": "WD",
+                "image_path": "static/shank/wide.png",
+                "side_setting_id": [
+                    1,
+                    5,
+                    7,
+                    6
+                ],
+                "name": "Wide"
+            }
+        ]
+    },
+    "metal": {
+        "title": "Metal",
+        "component": [
+            {
+                "id": 1,
+                "is_karat": 1,
+                "price": 5000,
+                "sort_code": "14KT",
+                "karat": "14",
+                "metal": "GD",
+                "name": "Gold"
+            },
+            {
+                "id": 2,
+                "is_karat": 1,
+                "price": 10000,
+                "karat": "14",
+                "metal": "GD",
+                "sort_code": "18KT",
+                "name": "Gold"
+            },
+            {
+                "id": 3,
+                "is_karat": 0,
+                "price": 15000,
+                "karat": "null",
+                "metal": "PL",
+                "sort_code": "PL",
+                "name": "Platinum"
+            }
+        ]
+    },
+    "ring_shank_metal_tone": {
+        "title": "Shank Metal Tone",
+        "component": [
+            {
+                "id": 1,
+                "sort_code": "WG",
+                "name": "White Gold",
+                "image_path": "images/metalTone/image-WG.svg-1693728466105.svg"
+            },
+            {
+                "id": 2,
+                "name": "Yellow Gold",
+                "sort_code": "YG",
+                "image_path": "images/metalTone/image-YG.svg-1693728478134.svg"
+            },
+            {
+                "id": 3,
+                "name": "Rose Gold",
+                "sort_code": "RG",
+                "image_path": "images/metalTone/image-RG.svg-1693728490422.svg"
+            }
+        ]
+    },
+    "productList": [
+        {
+            "id": 1,
+            "name": "Classic Enternity Band",
+            "sku": "CDI-PD-CR-1266",
+            "slug": "create-enternity-band-3d-local",
+            "product_price": "3904.800",
+            "image_path": "/assets/images/products/band.png"
+        }
+    ]
+}

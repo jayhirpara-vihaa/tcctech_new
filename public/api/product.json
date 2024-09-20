@@ -1,0 +1,243 @@
+{
+  "id": 1,
+  "sku": "N/A",
+  "name": "Marseille (1/3 ct. tw.)",
+  "slug": "maniac-red-boys",
+  "selectedColor": "Rose Gold",
+  "selectedShape": "Round",
+  "description": "Blue solid woven regular top, curved hem with tassell detailing has shoulder straps, and sleeveless",
+  "category": {
+    "id": 1,
+    "name": "kids",
+    "slug": "kids"
+  },
+  "shape": [
+    {
+      "id": 1,
+      "value": "/assets/TCCimage/Shape/cushion.svg",
+      "color": "Cushion"
+    },
+    {
+      "id": 2,
+      "value": "/assets/TCCimage/Shape/emerald.svg",
+      "color": "Emerald"
+    },
+    {
+      "id": 3,
+      "value": "/assets/TCCimage/Shape/heart.svg",
+      "color": "Heart"
+    },
+    {
+      "id": 4,
+      "value": "/assets/TCCimage/Shape/oval.svg",
+      "color": "Oval"
+    },
+    {
+      "id": 5,
+      "value": "/assets/TCCimage/Shape/pear.svg",
+      "color": "Pear"
+    },
+    {
+      "id": 6,
+      "value": "/assets/TCCimage/Shape/princess.svg",
+      "color": "Princess"
+    },
+    {
+      "id": 6,
+      "value": "/assets/TCCimage/Shape/round.svg",
+      "color": "Round"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Casual",
+      "slug": "casual"
+    },
+    {
+      "id": 2,
+      "name": "Cotton",
+      "slug": "cotton"
+    },
+    {
+      "id": 3,
+      "name": "Red",
+      "slug": "red"
+    }
+  ],
+  "image": {
+    "id": 1,
+    "thumbnail": "https://image.brilliantearth.com/media/diamond_ring_vto/MH/BE1D3242_rose_Round_top_75_carat.png",
+    "original": "https://image.brilliantearth.com/media/carat_image/84/BE1D3242_RD_75ct_rose_side1.jpg"
+  },
+  "gallery_round": [
+    {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/diamond_ring_vto/1S/BE1PD25R25_white_Round_top_75_carat.png",
+      "original": "https://image.brilliantearth.com/media/diamond_ring_vto/1S/BE1PD25R25_white_Round_top_75_carat.png"
+    },
+    {
+      "id": 2,
+      "thumbnail": "https://image.brilliantearth.com/media/product_images/OB/BE1D54-18KW_2.jpg",
+      "original": "https://image.brilliantearth.com/media/product_images/OB/BE1D54-18KW_2.jpg"
+    },
+    {
+      "id": 3,
+      "thumbnail": "https://image.brilliantearth.com/media/product_images/KL/BE1D54-18KW_3.jpg",
+      "original": "https://image.brilliantearth.com/media/product_images/KL/BE1D54-18KW_3.jpg"
+    },
+    {
+      "id": 4,
+      "thumbnail": "https://image.brilliantearth.com/media/carat_image/83/BE1PD25R25_RD_75ct_white_side1.jpg",
+      "original": "https://image.brilliantearth.com/media/carat_image/83/BE1PD25R25_RD_75ct_white_side1.jpg"
+    },
+    {
+      "id": 5,
+      "thumbnail": "https://image.brilliantearth.com/media/carat_image/FE/BE1PD25R25_RD_75ct_white_side2.jpg",
+      "original": "https://image.brilliantearth.com/media/carat_image/FE/BE1PD25R25_RD_75ct_white_side2.jpg"
+    },
+    {
+      "id": 6,
+      "thumbnail": "https://image.brilliantearth.com/media/product_images/36/BE1D54_white_additional2.jpeg",
+      "original": "https://image.brilliantearth.com/media/product_images/36/BE1D54_white_additional2.jpeg"
+    },
+    {
+      "id": 7,
+      "thumbnail": "https://rbidnexp.sirv.com/0__35/0__35.spin?image=72&gif.lossy=5&w=500&h=500",
+      "original": "https://rbidnexp.sirv.com/0__35/0__35.spin?image=72&gif.lossy=5&w=500&h=500"
+    }
+  ],
+  "gallery_emerald": [
+    {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/diamond_ring_vto/B5/BE1PD25R25_white_Emerald_top_75_carat.png",
+      "original": "https://image.brilliantearth.com/media/diamond_ring_vto/B5/BE1PD25R25_white_Emerald_top_75_carat.png"
+    },
+    {
+      "id": 2,
+      "thumbnail": "https://image.brilliantearth.com/media/product_images/OB/BE1D54-18KW_2.jpg",
+      "original": "https://image.brilliantearth.com/media/product_images/OB/BE1D54-18KW_2.jpg"
+    },
+    {
+      "id": 3,
+      "thumbnail": "https://image.brilliantearth.com/media/product_images/KL/BE1D54-18KW_3.jpg",
+      "original": "https://image.brilliantearth.com/media/product_images/KL/BE1D54-18KW_3.jpg"
+    },
+    {
+      "id": 4,
+      "thumbnail": "https://image.brilliantearth.com/media/carat_image/94/BE1PD25R25_EM_75ct_white_side1.jpg",
+      "original": "https://image.brilliantearth.com/media/carat_image/94/BE1PD25R25_EM_75ct_white_side1.jpg"
+    },
+    {
+      "id": 5,
+      "thumbnail": "https://image.brilliantearth.com/media/carat_image/CB/BE1PD25R25_EM_75ct_white_side2.jpg",
+      "original": "https://image.brilliantearth.com/media/carat_image/CB/BE1PD25R25_EM_75ct_white_side2.jpg"
+    },
+    {
+      "id": 6,
+      "thumbnail": "https://image.brilliantearth.com/media/product_images/36/BE1D54_white_additional2.jpeg",
+      "original": "https://image.brilliantearth.com/media/product_images/36/BE1D54_white_additional2.jpeg"
+    },
+    {
+      "id": 7,
+      "thumbnail": "https://rbidnexp.sirv.com/0__35/0__35.spin?image=72&gif.lossy=5&w=500&h=500",
+      "original": "https://rbidnexp.sirv.com/0__35/0__35.spin?image=72&gif.lossy=5&w=500&h=500"
+    }
+  ],
+  "gallery_cushion": [
+    {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/diamond_ring_vto/0K/BE1PD25R25_white_Cushion_top_75_carat.png",
+      "original": "https://image.brilliantearth.com/media/diamond_ring_vto/0K/BE1PD25R25_white_Cushion_top_75_carat.png"
+    },
+    {
+      "id": 2,
+      "thumbnail": "https://image.brilliantearth.com/media/product_images/OB/BE1D54-18KW_2.jpg",
+      "original": "https://image.brilliantearth.com/media/product_images/OB/BE1D54-18KW_2.jpg"
+    },
+    {
+      "id": 3,
+      "thumbnail": "https://image.brilliantearth.com/media/product_images/KL/BE1D54-18KW_3.jpg",
+      "original": "https://image.brilliantearth.com/media/product_images/KL/BE1D54-18KW_3.jpg"
+    },
+    {
+      "id": 4,
+      "thumbnail": "https://image.brilliantearth.com/media/carat_image/19/BE1PD25R25_CU_75ct_white_side1.jpg",
+      "original": "https://image.brilliantearth.com/media/carat_image/19/BE1PD25R25_CU_75ct_white_side1.jpg"
+    },
+    {
+      "id": 5,
+      "thumbnail": "https://image.brilliantearth.com/media/carat_image/4E/BE1PD25R25_CU_75ct_white_side2.jpg",
+      "original": "https://image.brilliantearth.com/media/carat_image/4E/BE1PD25R25_CU_75ct_white_side2.jpg"
+    },
+    {
+      "id": 6,
+      "thumbnail": "https://image.brilliantearth.com/media/product_images/36/BE1D54_white_additional2.jpeg",
+      "original": "https://image.brilliantearth.com/media/product_images/36/BE1D54_white_additional2.jpeg"
+    },
+    {
+      "id": 7,
+      "thumbnail": "https://rbidnexp.sirv.com/0__35/0__35.spin?image=72&gif.lossy=5&w=500&h=500",
+      "original": "https://rbidnexp.sirv.com/0__35/0__35.spin?image=72&gif.lossy=5&w=500&h=500"
+    }
+  ],
+  "price": "",
+  "sale_price": 1960,
+  "quantity": 20,
+  "variations": [
+    {
+      "id": 1,
+      "value": "/assets/TCCimage/MetalTone/Gold.svg",
+      "color": "Gold",
+      "attribute": {
+        "id": 1,
+        "name": "Size",
+        "slug": "size"
+      }
+    },
+    {
+      "id": 2,
+      "value": "/assets/TCCimage/MetalTone/Silver.svg",
+      "color": "Silver",
+      "attribute": {
+        "id": 1,
+        "name": "Size",
+        "slug": "size"
+      }
+    },
+    {
+      "id": 3,
+      "value": "/assets/TCCimage/MetalTone/Rose_gold.svg",
+      "color": "Rose_Gold",
+      "attribute": {
+        "id": 1,
+        "name": "Size",
+        "slug": "size"
+      }
+    },
+    {
+      "id": 4,
+      "value": "/assets/TCCimage/MetalTone/Platinum.svg",
+      "color": "Platinum",
+      "attribute": {
+        "id": 1,
+        "name": "Size",
+        "slug": "size"
+      }
+    }
+  ],
+  "meta": [
+    {
+      "id": 1,
+      "title": "Product Details",
+      "content": [
+        "Style  Metal Avg. Width Rhodium Finish Setting"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Description",
+      "content": "Elegant and chic, this three stone ring features two kite-shaped diamond accents alongside a center gemstone cradled by lustrous claw prongs. The sleek, sophisticated band gently tapers down into a low dome for increased comfort."
+    }
+  ]
+}

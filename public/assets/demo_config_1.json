@@ -1,0 +1,67 @@
+{
+    "objects": [
+        {
+            "items": [
+                "https://tcctech.vercel.app/assets/DemoGlb/BD-01-RN-001.glb",
+                "https://tcctech.vercel.app/assets/DemoGlb/BD-02-RN-001.glb",
+                "https://tcctech.vercel.app/assets/DemoGlb/BD-03-RN-001.glb",
+                "https://tcctech.vercel.app/assets/DemoGlb/BD-04-RN-001.glb",
+                "https://tcctech.vercel.app/assets/DemoGlb/BD-05-RN-001.glb",
+                "https://tcctech.vercel.app/assets/DemoGlb/BD-06-RN-001.glb"
+            ],
+            "prefix": "001/",
+            "name": "001",
+            "title": "001",
+            "icon": "",
+            "icons": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "titles": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "items": [
+                "https://tcctech.vercel.app/assets/DemoGlb/BD-01-RN-002.glb",
+                "https://tcctech.vercel.app/assets/DemoGlb/BD-02-RN-002.glb",
+                "https://tcctech.vercel.app/assets/DemoGlb/BD-03-RN-002.glb",
+                "https://tcctech.vercel.app/assets/DemoGlb/BD-04-RN-002.glb",
+                "https://tcctech.vercel.app/assets/DemoGlb/BD-05-RN-002.glb",
+                "https://tcctech.vercel.app/assets/DemoGlb/BD-06-RN-002.glb"
+            ],
+            "prefix": "002/",
+            "name": "002",
+            "title": "002",
+            "icon": "",
+            "icons": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "titles": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "materials": [],
+    "type": "VariationConfiguratorPlugin",
+    "baseUrl": "https://tcctech.vercel.app/"
+}

@@ -1,0 +1,886 @@
+{
+  "center_diamond": {
+    "title": "Center Stone",
+    "component": [
+      {
+        "id": 1,
+        "name": "Diamond",
+        "sort_code": "D",
+        "diamond_type": 1,
+        "price": 1001,
+        "image": "/assets/images/config_image/center-diamond/diamond.png"
+      },
+      {
+        "id": 2,
+        "name": "Gemstone",
+        "sort_code": "G",
+        "diamond_type": 2,
+        "price": 0,
+        "image": "/assets/images/config_image/center-diamond/gemstone.png"
+      }
+    ]
+  },
+  "diamond_center": {
+    "title": "Center Diamond",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "NATURAL",
+        "name": "Natural",
+        "price": 1500,
+        "is_diamond": 1,
+        "image": "/assets/images/config_image/center-diamond/diamond.png"
+      },
+      {
+        "id": 2,
+        "sort_code": "LABGROWN",
+        "name": "Labgrown",
+        "price": 1000,
+        "is_diamond": 1,
+        "image": "/assets/images/config_image/center-diamond/diamond.png"
+      }
+    ]
+  },
+  "center_Gemstone": {
+    "title": "Center Gemstone",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "BLUE",
+        "name": "Sapphire",
+        "price": 500,
+        "is_diamond": 2,
+        "gemstone_type": 1,
+        "image_path": "images/gemstones/image-Round.png-1686649476590.png"
+      },
+      {
+        "id": 2,
+        "sort_code": "GREEN",
+        "is_diamond": 2,
+        "gemstone_type": 1,
+        "name": "Emerald",
+        "price": 600,
+        "image_path": "images/gemstones/image-Round (4).png-1686649469410.png"
+      },
+      {
+        "id": 3,
+        "is_diamond": 2,
+        "name": "Ruby",
+        "gemstone_type": 1,
+        "sort_code": "RUBY",
+        "price": 700,
+        "image_path": "images/gemstones/image-Round (2).png-1686649482637.png"
+      },
+      {
+        "id": 4,
+        "is_diamond": 2,
+        "name": "Yellow Sapphire",
+        "sort_code": "YELLOW",
+        "price": 800,
+        "gemstone_type": 1,
+        "image_path": "images/gemstones/image-Round (3).png-1686649457647.png"
+      }
+    ]
+  },
+  "gemstone_type": {
+    "title": "Gemstone Type",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "NATURAL",
+        "name": "Natural Gemstone",
+        "price": 1500,
+        "is_diamond": 2,
+        "image": "/assets/images/config_image/center-diamond/diamond.png"
+      },
+      {
+        "id": 2,
+        "sort_code": "SYNTHENTIC",
+        "name": "Synthentic Gemstone",
+        "price": 1000,
+        "is_diamond": 2,
+        "image": "/assets/images/config_image/center-diamond/diamond.png"
+      }
+    ]
+  },
+  "center_diamond_shape": {
+    "title": "Center Stone Shape",
+    "selcted": "Oval",
+    "component": [
+      {
+        "id": 1,
+        "name": "Round",
+        "is_diamond": 3,
+        "sort_code": "RD",
+        "price": 643,
+        "diamond_size_id": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "image_path": "static/shapes/round.png"
+      },
+      {
+        "id": 2,
+        "name": "Oval",
+        "is_diamond": 3,
+        "sort_code": "OV",
+        "price": 849,
+        "diamond_size_id": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "image_path": "static/shapes/oval.png"
+      },
+      {
+        "id": 3,
+        "name": "Emerald",
+        "is_diamond": 3,
+        "sort_code": "EM",
+        "price": 632,
+        "diamond_size_id": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "image_path": "static/shapes/emerald.png"
+      },
+      {
+        "id": 4,
+        "name": "Pear",
+        "is_diamond": 3,
+        "sort_code": "PE",
+        "price": 534,
+        "diamond_size_id": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "image_path": "static/shapes/pear.png"
+      },
+      {
+        "id": 5,
+        "name": "Princess",
+        "is_diamond": 3,
+        "sort_code": "PR",
+        "price": 844,
+        "diamond_size_id": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "image_path": "static/shapes/princess.png"
+      },
+      {
+        "id": 6,
+        "name": "Radiant",
+        "is_diamond": 3,
+        "sort_code": "RA",
+        "price": 725,
+        "diamond_size_id": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "image_path": "static/shapes/radiant.png"
+      },
+      {
+        "id": 7,
+        "name": "Marquise",
+        "is_diamond": 3,
+        "sort_code": "MQ",
+        "price": 985,
+        "diamond_size_id": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "image_path": "static/shapes/marquise.png"
+      }
+    ]
+  },
+  "center_diamond_size": {
+    "title": "Center Diamond Size",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "050",
+        "image_path": "static/size/0.5.png",
+        "price": 250,
+        "value": "0.50"
+      },
+      {
+        "id": 2,
+        "sort_code": "075",
+        "price": 375,
+        "image_path": "static/size/0.75.png",
+        "value": "0.75"
+      },
+      {
+        "id": 3,
+        "sort_code": "100",
+        "price": 400,
+        "image_path": "static/size/1.0.png",
+        "value": "1.00"
+      },
+      {
+        "id": 4,
+        "sort_code": "150",
+        "price": 472,
+        "image_path": "static/size/1.5.png",
+        "value": "1.50"
+      },
+      {
+        "id": 5,
+        "sort_code": "200",
+        "price": 532,
+        "image_path": "static/size/2.0.png",
+        "value": "2.00"
+      },
+      {
+        "id": 6,
+        "sort_code": "300",
+        "price": 632,
+        "image_path": "static/size/3.0.png",
+        "value": "3.00"
+      }
+    ]
+  },
+  "center_diamond_cut": [
+    {
+      "id": 1,
+      "value": "Best",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "value": "Better",
+      "price": 1000
+    },
+    {
+      "id": 3,
+      "value": "Good",
+      "price": 1500
+    }
+  ],
+  "center_diamond_clarity": [
+    {
+      "id": 1,
+      "color_name": "I",
+      "clarity_name": "I1",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "color_name": "H",
+      "clarity_name": "SI",
+      "price": 300
+    },
+    {
+      "id": 2,
+      "color_name": "G",
+      "price": 350,
+      "clarity_name": "VS"
+    }
+  ],
+  "ring_Head": {
+    "title": "Crown Type",
+    "component": [
+      {
+        "id": 7,
+        "sort_code": "4PR",
+        "price": 2756,
+        "design_identifier": "classicsinglehalo",
+        "image_path": "static/head/plain.png",
+        "is_diamond": 1,
+        "diamond_shape_id": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "diamond_size_id": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "name": "4 Prong"
+      },
+      {
+        "id": 6,
+        "sort_code": "HH",
+        "price": 1000,
+        "design_identifier": "classicsinglehalo",
+        "image_path": "static/head/hiddenhalo.png",
+        "is_diamond": 1,
+        "diamond_shape_id": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "diamond_size_id": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "name": "Hidden Halo"
+      },
+      {
+        "id": 1,
+        "is_diamond": 1,
+        "sort_code": "SH",
+        "price": 2590,
+        "design_identifier": "classicsinglehalo",
+        "image_path": "static/head/singlehalo.png",
+        "diamond_shape_id": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "diamond_size_id": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "name": "Single Halo"
+      },
+      {
+        "id": 8,
+        "sort_code": "DH",
+        "price": 5690,
+        "design_identifier": "classicsinglehalo",
+        "image_path": "static/head/doublehalo.png",
+        "is_diamond": 1,
+        "diamond_shape_id": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "diamond_size_id": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "name": "Double Halo"
+      }
+    ]
+  },
+  "ring_Head_stone": {
+    "title": "Head Stone",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "H-D",
+        "image": "/assets/images/config_image/center-diamond/diamond.png",
+        "name": "Diamond"
+      },
+      {
+        "id": 2,
+        "sort_code": "H-SA",
+        "image": "/assets/images/config_image/center-gemstone/sa.png",
+        "name": "sapphire"
+      },
+      {
+        "id": 3,
+        "sort_code": "H-BD",
+        "image": "/assets/images/config_image/center-gemstone/bd.png",
+        "name": "Black Diamond"
+      },
+      {
+        "id": 4,
+        "sort_code": "H-RU",
+        "image": "/assets/images/config_image/center-gemstone/ru.png",
+        "name": "Ruby"
+      },
+      {
+        "id": 5,
+        "sort_code": "H-EM",
+        "image": "/assets/images/config_image/center-gemstone/em.png",
+        "name": "Emerald"
+      }
+    ]
+  },
+  "ring_shank_style": {
+    "title": "Shank Type",
+    "component": [
+      {
+        "id": 1,
+        "price": 1000,
+        "sort_code": "PL",
+        "is_peekaboo": 1,
+        "design_identifier": "plain",
+        "image_path": "static/shank/plain.png",
+        "side_setting_id": [
+          1,
+          5,
+          6,
+          8
+        ],
+        "name": "Plain"
+      },
+      {
+        "id": 2,
+        "price": 2000,
+        "is_peekaboo": 0,
+        "sort_code": "TW",
+        "design_identifier": "twisted",
+        "image_path": "static/shank/twisted.png",
+        "side_setting_id": [
+          1,
+          5,
+          6,
+          8
+        ],
+        "name": "Twist"
+      },
+      {
+        "id": 3,
+        "price": 1834,
+        "sort_code": "CA",
+        "is_peekaboo": 0,
+        "design_identifier": "cathedral",
+        "image_path": "static/shank/cathedrial.png",
+        "side_setting_id": [
+          1,
+          5,
+          6,
+          8
+        ],
+        "name": "Cathedral"
+      },
+      {
+        "id": 5,
+        "price": 2454,
+        "sort_code": "SP",
+        "is_peekaboo": 0,
+        "design_identifier": "sp",
+        "image_path": "static/shank/split.png",
+        "side_setting_id": [
+          1,
+          5,
+          6,
+          7
+        ],
+        "name": "Split"
+      },
+      {
+        "id": 7,
+        "price": 2413,
+        "sort_code": "KE",
+        "is_peekaboo": 0,
+        "design_identifier": "KE",
+        "image_path": "static/shank/knifeedge.png",
+        "side_setting_id": [
+          1,
+          5,
+          7,
+          8
+        ],
+        "name": "Knife Edge"
+      },
+      {
+        "id": 8,
+        "price": 2576,
+        "sort_code": "WD",
+        "is_peekaboo": 0,
+        "design_identifier": "WD",
+        "image_path": "static/shank/wide.png",
+        "side_setting_id": [
+          1,
+          5,
+          7,
+          6
+        ],
+        "name": "Wide"
+      }
+    ]
+  },
+  "peekaboo_shape": {
+    "title": "Peekaboo Shape",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "PKS-N",
+        "image": "/assets/images/config_image/peekabo-shape/none.jpg",
+        "name": "None"
+      },
+      {
+        "id": 2,
+        "sort_code": "PKS-R",
+        "image": "/assets/images/config_image/peekabo-shape/round.jpg",
+        "name": "Round"
+      },
+      {
+        "id": 3,
+        "sort_code": "PKS-P",
+        "image": "/assets/images/config_image/peekabo-shape/princess.jpg",
+        "name": "Princess"
+      }
+    ]
+  },
+  "side_setting": {
+    "title": "Side Setting",
+    "component": [
+      {
+        "id": 1,
+        "price": 1074,
+        "sort_code": "PL",
+        "id_shank": 1,
+        "is_diamond": 0,
+        "design_identifier": "plain",
+        "image_path": "static/settings/plain.png",
+        "name": "Plain"
+      },
+      {
+        "id": 5,
+        "price": 2726,
+        "sort_code": "UM",
+        "id_shank": 1,
+        "is_diamond": 1,
+        "design_identifier": "u micro",
+        "image_path": "static/settings/umicro.png",
+        "name": "U Micro"
+      },
+      {
+        "id": 6,
+        "price": 2846,
+        "sort_code": "PP",
+        "id_shank": 1,
+        "is_diamond": 1,
+        "design_identifier": "u micro",
+        "image_path": "static/settings/plateprong.png",
+        "name": "Prong"
+      },
+      {
+        "id": 7,
+        "price": 1947,
+        "sort_code": "PV",
+        "id_shank": 1,
+        "is_diamond": 1,
+        "design_identifier": "u micro",
+        "image_path": "static/settings/pave.png",
+        "name": "Pave"
+      },
+      {
+        "id": 8,
+        "price": 1836,
+        "sort_code": "CH",
+        "id_shank": 1,
+        "is_diamond": 1,
+        "design_identifier": "u micro",
+        "image_path": "static/settings/channel.png",
+        "name": "Channel"
+      }
+    ]
+  },
+  "side_carving": {
+    "title": "Carving",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "CR-P",
+        "image": "/assets/images/config_image/carving/cr-p.jpg",
+        "name": "Plain"
+      },
+      {
+        "id": 2,
+        "sort_code": "CR-L",
+        "image": "/assets/images/config_image/carving/cr-l.jpg",
+        "name": "Leaf"
+      },
+      {
+        "id": 3,
+        "id_shank": 1,
+        "sort_code": "CR-S",
+        "is_diamond": 1,
+        "image": "/assets/images/config_image/carving/cr-s.jpg",
+        "name": "Scroll"
+      },
+      {
+        "id": 4,
+        "sort_code": "CR-F",
+        "image": "/assets/images/config_image/carving/cr-f.jpg",
+        "name": "Feather"
+      }
+    ]
+  },
+  "side_Stone": {
+    "title": "Side Stone",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "SD-D",
+        "image": "/assets/images/config_image/side-diamond/sd-d.jpg",
+        "name": "Diamond"
+      },
+      {
+        "id": 2,
+        "sort_code": "SD-S",
+        "image": "/assets/images/config_image/side-diamond/sd-s.jpg",
+        "name": "Sapphire"
+      },
+      {
+        "id": 3,
+        "id_shank": 1,
+        "sort_code": "SD-A-S",
+        "is_diamond": 1,
+        "image": "/assets/images/config_image/side-diamond/sd-a-s.jpg",
+        "name": "Alt. Sapphire"
+      },
+      {
+        "id": 4,
+        "sort_code": "SD-E",
+        "image": "/assets/images/config_image/side-diamond/sd-e.jpg",
+        "name": "Sapphire"
+      },
+      {
+        "id": 5,
+        "sort_code": "SD-A-E",
+        "image": "/assets/images/config_image/side-diamond/sd-a-e.jpg",
+        "name": "Alt. Emerald"
+      },
+      {
+        "id": 6,
+        "sort_code": "SD-RU",
+        "image": "/assets/images/config_image/side-diamond/sd-ru.jpg",
+        "name": "Ruby"
+      },
+      {
+        "id": 7,
+        "sort_code": "SD-A-RU",
+        "image": "/assets/images/config_image/side-diamond/sd-a-ru.jpg",
+        "name": "Alt. Ruby"
+      },
+      {
+        "id": 8,
+        "sort_code": "SD-BD",
+        "image": "/assets/images/config_image/side-diamond/sd-bd.jpg",
+        "name": "Black Diamond"
+      },
+      {
+        "id": 9,
+        "sort_code": "SD-A-BD",
+        "image": "/assets/images/config_image/side-diamond/sd-a-bd.jpg",
+        "name": "Alt. Black Diamond"
+      }
+    ]
+  },
+  "ring_crown": {
+    "title": "Ring Crown",
+    "component": [
+      {
+        "id": 1,
+        "name": "Classic prong"
+      },
+      {
+        "id": 2,
+        "name": "Hidden halo"
+      },
+      {
+        "id": 3,
+        "name": "Single halo"
+      },
+      {
+        "id": 4,
+        "name": "Double halo"
+      }
+    ]
+  },
+  "ring_side": {
+    "title": "Ring Side",
+    "component": [
+      {
+        "id": 1,
+        "name": "Plain"
+      },
+      {
+        "id": 2,
+        "name": "Pave"
+      },
+      {
+        "id": 3,
+        "name": "Prong"
+      },
+      {
+        "id": 4,
+        "name": "Channel"
+      }
+    ]
+  },
+  "metal": {
+    "title": "Metal",
+    "component": [
+      {
+        "id": 1,
+        "is_karat": 1,
+        "price": 5000,
+        "sort_code": "14KT",
+        "karat": "14",
+        "metal": "GD",
+        "metal_name": "Gold",
+        "name": "14",
+        "slug": "14K"
+      },
+      {
+        "id": 2,
+        "is_karat": 1,
+        "price": 10000,
+        "karat": "14",
+        "metal": "GD",
+        "metal_name": "Gold",
+        "sort_code": "18KT",
+        "name": "18",
+        "slug": "18K"
+      },
+      {
+        "id": 3,
+        "is_karat": 0,
+        "price": 15000,
+        "karat": "null",
+        "metal": "PL",
+        "sort_code": "PL",
+        "name": "Platinum"
+      }
+    ]
+  },
+  "ring_head_metal_tone": {
+    "title": "Crown Metal Tone",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "WG",
+        "name": "White Gold",
+        "image_path": "images/metalTone/image-WG.svg-1693728466105.svg",
+        "id_metal": 1
+      },
+      {
+        "id": 2,
+        "name": "Yellow Gold",
+        "sort_code": "YG",
+        "image_path": "images/metalTone/image-YG.svg-1693728478134.svg",
+        "id_metal": 1
+      },
+      {
+        "id": 3,
+        "name": "Rose Gold",
+        "sort_code": "RG",
+        "image_path": "images/metalTone/image-RG.svg-1693728490422.svg",
+        "id_metal": 1
+      }
+    ]
+  },
+  "ring_shank_metal_tone": {
+    "title": "Shank Metal Tone",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "WG",
+        "name": "White Gold",
+        "image_path": "images/metalTone/image-WG.svg-1693728466105.svg",
+        "id_metal": 1
+      },
+      {
+        "id": 2,
+        "name": "Yellow Gold",
+        "sort_code": "YG",
+        "image_path": "images/metalTone/image-YG.svg-1693728478134.svg",
+        "id_metal": 1
+      },
+      {
+        "id": 3,
+        "name": "Rose Gold",
+        "sort_code": "RG",
+        "image_path": "images/metalTone/image-RG.svg-1693728490422.svg",
+        "id_metal": 1
+      }
+    ]
+  },
+  "matching_wedding_band": {
+    "title": "Ring Band Style",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "NONE",
+        "price": 0,
+        "id_metal_tone": 0,
+        "image": "/assets/images/config_image/band/none.jpg",
+        "name": "No Band"
+      },
+      {
+        "id": 2,
+        "sort_code": "BAND",
+        "price": 2000,
+        "id_metal_tone": 1,
+        "image": "/assets/images/config_image/band/match.jpg",
+        "name": "Matching Band"
+      }
+    ]
+  },
+  "band_metal_tone": [
+    {
+      "id": 1,
+      "sort_code": "WG",
+      "name": "White Gold",
+      "image_path": "images/metalTone/image-WG.svg-1693728466105.svg",
+      "id_metal": 1
+    },
+    {
+      "id": 2,
+      "name": "Yellow Gold",
+      "sort_code": "YG",
+      "image_path": "images/metalTone/image-YG.svg-1693728478134.svg",
+      "id_metal": 1
+    },
+    {
+      "id": 3,
+      "name": "Rose Gold",
+      "sort_code": "RG",
+      "image_path": "images/metalTone/image-RG.svg-1693728490422.svg",
+      "id_metal": 1
+    }
+  ]
+}

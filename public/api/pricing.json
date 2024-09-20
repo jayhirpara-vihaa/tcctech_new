@@ -1,0 +1,476 @@
+{
+    "head": [
+        {
+            "shape": "RD",
+            "carat": "100",
+            "quality": "II1",
+            "value": "2500"
+        },
+        {
+            "shape": "RD",
+            "carat": "100",
+            "quality": "HSI",
+            "value": "4000"
+        },
+        {
+            "shape": "RD",
+            "carat": "100",
+            "quality": "GVS",
+            "value": "4500"
+        },
+        {
+            "shape": "RD",
+            "carat": "100",
+            "quality": "RUBY",
+            "value": "1000"
+        },
+        {
+            "shape": "RD",
+            "carat": "100",
+            "quality": "GREEN",
+            "value": "1000"
+        },
+        {
+            "shape": "RD",
+            "carat": "100",
+            "quality": "BLUE",
+            "value": "1000"
+        },
+        {
+            "shape": "RD",
+            "carat": "100",
+            "quality": "YELLOW",
+            "value": "1000"
+        },
+        {
+            "shape": "RD",
+            "carat": "200",
+            "quality": "II1",
+            "value": "3500"
+        },
+        {
+            "shape": "RD",
+            "carat": "200",
+            "quality": "HSI",
+            "value": "6000"
+        },
+        {
+            "shape": "RD",
+            "carat": "200",
+            "quality": "GVS",
+            "value": "10500"
+        },
+        {
+            "shape": "RD",
+            "carat": "200",
+            "quality": "RUBY",
+            "value": "2000"
+        },
+        {
+            "shape": "RD",
+            "carat": "200",
+            "quality": "GREEN",
+            "value": "2000"
+        },
+        {
+            "shape": "RD",
+            "carat": "200",
+            "quality": "BLUE",
+            "value": "2000"
+        },
+        {
+            "shape": "RD",
+            "carat": "200",
+            "quality": "YELLOW",
+            "value": "2000"
+        },
+        {
+            "shape": "OV",
+            "carat": "100",
+            "quality": "II1",
+            "value": "2250"
+        },
+        {
+            "shape": "OV",
+            "carat": "100",
+            "quality": "HSI",
+            "value": "3750"
+        },
+        {
+            "shape": "OV",
+            "carat": "100",
+            "quality": "GVS",
+            "value": "4250"
+        },
+        {
+            "shape": "OV",
+            "carat": "100",
+            "quality": "RUBY",
+            "value": "900"
+        },
+        {
+            "shape": "OV",
+            "carat": "100",
+            "quality": "GREEN",
+            "value": "900"
+        },
+        {
+            "shape": "OV",
+            "carat": "100",
+            "quality": "BLUE",
+            "value": "900"
+        },
+        {
+            "shape": "OV",
+            "carat": "100",
+            "quality": "YELLOW",
+            "value": "900"
+        },
+        {
+            "shape": "OV",
+            "carat": "200",
+            "quality": "II1",
+            "value": "3250"
+        },
+        {
+            "shape": "OV",
+            "carat": "200",
+            "quality": "HSI",
+            "value": "5750"
+        },
+        {
+            "shape": "OV",
+            "carat": "200",
+            "quality": "GVS",
+            "value": "10250"
+        },
+        {
+            "shape": "OV",
+            "carat": "200",
+            "quality": "RUBY",
+            "value": "1800"
+        },
+        {
+            "shape": "OV",
+            "carat": "200",
+            "quality": "GREEN",
+            "value": "1800"
+        },
+        {
+            "shape": "OV",
+            "carat": "200",
+            "quality": "BLUE",
+            "value": "1800"
+        },
+        {
+            "shape": "OV",
+            "carat": "200",
+            "quality": "YELLOW",
+            "value": "1800"
+        },
+        {
+            "shape": "EM",
+            "carat": "100",
+            "quality": "II1",
+            "value": "2200"
+        },
+        {
+            "shape": "EM",
+            "carat": "100",
+            "quality": "HSI",
+            "value": "3700"
+        },
+        {
+            "shape": "EM",
+            "carat": "100",
+            "quality": "GVS",
+            "value": "4200"
+        },
+        {
+            "shape": "EM",
+            "carat": "100",
+            "quality": "RUBY",
+            "value": "900"
+        },
+        {
+            "shape": "EM",
+            "carat": "100",
+            "quality": "GREEN",
+            "value": "900"
+        },
+        {
+            "shape": "EM",
+            "carat": "100",
+            "quality": "BLUE",
+            "value": "900"
+        },
+        {
+            "shape": "EM",
+            "carat": "100",
+            "quality": "YELLOW",
+            "value": "900"
+        },
+        {
+            "shape": "EM",
+            "carat": "200",
+            "quality": "II1",
+            "value": "3200"
+        },
+        {
+            "shape": "EM",
+            "carat": "200",
+            "quality": "HSI",
+            "value": "5700"
+        },
+        {
+            "shape": "EM",
+            "carat": "200",
+            "quality": "GVS",
+            "value": "10200"
+        },
+        {
+            "shape": "EM",
+            "carat": "200",
+            "quality": "RUBY",
+            "value": "1800"
+        },
+        {
+            "shape": "EM",
+            "carat": "200",
+            "quality": "GREEN",
+            "value": "1800"
+        },
+        {
+            "shape": "EM",
+            "carat": "200",
+            "quality": "BLUE",
+            "value": "1800"
+        },
+        {
+            "shape": "EM",
+            "carat": "200",
+            "quality": "YELLOW",
+            "value": "1800"
+        }
+    ],
+    "shank": [
+        {
+            "type": "PL",
+            "style": "PL",
+            "metal": "14KT",
+            "value": "340"
+        },
+        {
+            "type": "PL",
+            "style": "PL",
+            "metal": "18KT",
+            "value": "450"
+        },
+        {
+            "type": "PL",
+            "style": "PL",
+            "metal": "PL",
+            "value": "500"
+        },
+        {
+            "type": "PL",
+            "style": "UM",
+            "metal": "14KT",
+            "value": "575"
+        },
+        {
+            "type": "PL",
+            "style": "UM",
+            "metal": "18KT",
+            "value": "775"
+        },
+        {
+            "type": "PL",
+            "style": "UM",
+            "metal": "PL",
+            "value": "875"
+        },
+        {
+            "type": "TW",
+            "style": "PL",
+            "metal": "14KT",
+            "value": "350"
+        },
+        {
+            "type": "TW",
+            "style": "PL",
+            "metal": "18KT",
+            "value": "450"
+        },
+        {
+            "type": "TW",
+            "style": "PL",
+            "metal": "PL",
+            "value": "500"
+        },
+        {
+            "type": "TW",
+            "style": "UM",
+            "metal": "14KT",
+            "value": "550"
+        },
+        {
+            "type": "TW",
+            "style": "UM",
+            "metal": "18KT",
+            "value": "650"
+        },
+        {
+            "type": "TW",
+            "style": "UM",
+            "metal": "PL",
+            "value": "700"
+        },
+        {
+            "type": "CA",
+            "style": "PL",
+            "metal": "14KT",
+            "value": "400"
+        },
+        {
+            "type": "CA",
+            "style": "PL",
+            "metal": "18KT",
+            "value": "500"
+        },
+        {
+            "type": "CA",
+            "style": "PL",
+            "metal": "PL",
+            "value": "550"
+        },
+        {
+            "type": "CA",
+            "style": "UM",
+            "metal": "14KT",
+            "value": "600"
+        },
+        {
+            "type": "CA",
+            "style": "UM",
+            "metal": "18KT",
+            "value": "800"
+        },
+        {
+            "type": "CA",
+            "style": "UM",
+            "metal": "PL",
+            "value": "850"
+        }
+    ],
+    "band": [
+        {
+            "type": "PL",
+            "style": "PL",
+            "metal": "14KT",
+            "value": "275"
+        },
+        {
+            "type": "PL",
+            "style": "PL",
+            "metal": "18KT",
+            "value": "250"
+        },
+        {
+            "type": "PL",
+            "style": "PL",
+            "metal": "PL",
+            "value": "225"
+        },
+        {
+            "type": "PL",
+            "style": "UM",
+            "metal": "14KT",
+            "value": "325"
+        },
+        {
+            "type": "PL",
+            "style": "UM",
+            "metal": "18KT",
+            "value": "425"
+        },
+        {
+            "type": "PL",
+            "style": "UM",
+            "metal": "PL",
+            "value": "525"
+        },
+        {
+            "type": "TW",
+            "style": "PL",
+            "metal": "14KT",
+            "value": "230"
+        },
+        {
+            "type": "TW",
+            "style": "PL",
+            "metal": "18KT",
+            "value": "254"
+        },
+        {
+            "type": "TW",
+            "style": "PL",
+            "metal": "PL",
+            "value": "245"
+        },
+        {
+            "type": "TW",
+            "style": "UM",
+            "metal": "14KT",
+            "value": "275"
+        },
+        {
+            "type": "TW",
+            "style": "UM",
+            "metal": "18KT",
+            "value": "425"
+        },
+        {
+            "type": "TW",
+            "style": "UM",
+            "metal": "PL",
+            "value": "475"
+        },
+        {
+            "type": "CA",
+            "style": "PL",
+            "metal": "14KT",
+            "value": "230"
+        },
+        {
+            "type": "CA",
+            "style": "PL",
+            "metal": "18KT",
+            "value": "245"
+        },
+        {
+            "type": "CA",
+            "style": "PL",
+            "metal": "PL",
+            "value": "250"
+        },
+        {
+            "type": "CA",
+            "style": "UM",
+            "metal": "14KT",
+            "value": "300"
+        },
+        {
+            "type": "CA",
+            "style": "UM",
+            "metal": "18KT",
+            "value": "450"
+        },
+        {
+            "type": "CA",
+            "style": "UM",
+            "metal": "PL",
+            "value": "500"
+        }
+    ]
+}

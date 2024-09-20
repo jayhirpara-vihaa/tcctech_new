@@ -1,0 +1,871 @@
+{
+  "center_diamond": {
+    "title": "Center Diamond",
+    "component": [
+      {
+        "id": 20,
+        "name": "Diamond",
+        "sort_code": "D",
+        "image": "/assets/images/config_image/center-diamond/diamond.png"
+      },
+      {
+        "id": 2,
+        "name": "Gemstone",
+        "sort_code": "G",
+        "image": "/assets/images/config_image/center-diamond/gemstone.png"
+      }
+    ]
+  },
+  "center_Gemstone": {
+    "title": "Center Gemstone",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "SA",
+        "name": "sapphire",
+        "image": "/assets/images/config_image/center-gemstone/sa.png"
+      },
+      {
+        "id": 2,
+        "sort_code": "EM",
+        "name": "Emerald",
+        "image": "/assets/images/config_image/center-gemstone/em.png"
+      },
+      {
+        "id": 3,
+        "sort_code": "TA",
+        "name": "Tanzanite",
+        "image": "/assets/images/config_image/center-gemstone/ta.png"
+      },
+      {
+        "id": 4,
+        "name": "Ruby",
+        "sort_code": "RU",
+        "image": "/assets/images/config_image/center-gemstone/ru.png"
+      },
+      {
+        "id": 5,
+        "name": "Yellow Sapphire",
+        "sort_code": "YS",
+        "image": "/assets/images/config_image/center-gemstone/ys.png"
+      },
+      {
+        "id": 6,
+        "name": "Pink Sapphire",
+        "sort_code": "PS",
+        "image": "/assets/images/config_image/center-gemstone/ps.png"
+      }
+    ]
+  },
+  "center_diamond_shape": {
+    "title": "Center Diamond Shape",
+    "selcted": "Oval",
+    "component": [
+      {
+        "id": 1,
+        "name": "Round",
+        "type": 3,
+        "sort_code": "RD",
+        "image": "/assets/images/config_image/diamond-shape/round.png"
+      },
+      {
+        "id": 2,
+        "name": "Oval",
+        "type": 3,
+        "sort_code": "OV",
+        "image": "/assets/images/config_image/diamond-shape/dso.png"
+      },
+      {
+        "id": 3,
+        "name": "Cushion",
+        "type": 1,
+        "sort_code": "DSE",
+        "image": "/assets/images/config_image/diamond-shape/cushion.png"
+      },
+      {
+        "id": 4,
+        "name": "Princess",
+        "type": 1,
+        "sort_code": "DSP",
+        "image": "/assets/images/config_image/diamond-shape/princess.png"
+      },
+      {
+        "id": 5,
+        "name": "Pear",
+        "type": 1,
+        "sort_code": "V2PE",
+        "image": "/assets/images/config_image/diamond-shape/dspr.png"
+      },
+      {
+        "id": 6,
+        "name": "Emerald",
+        "type": 1,
+        "sort_code": "DSE",
+        "image": "/assets/images/config_image/diamond-shape/dse.png"
+      }
+    ]
+  },
+  "center_diamond_size": {
+    "title": "Center Diamond Size",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "050ct",
+        "image": "/assets/images/config_image/diamond-size/0.84.png",
+        "name": "0.50"
+      },
+      {
+        "id": 2,
+        "sort_code": "1ct",
+        "image": "/assets/images/config_image/diamond-size/1.3.png",
+        "name": "1.00"
+      },
+      {
+        "id": 3,
+        "sort_code": "2ct",
+        "image": "/assets/images/config_image/diamond-size/2.png",
+        "name": "2.00"
+      },
+      {
+        "id": 4,
+        "sort_code": "075ct",
+        "image": "/assets/images/config_image/diamond-size/2.png",
+        "name": "0.75"
+      },
+      {
+        "id": 5,
+        "sort_code": "150ct",
+        "image": "/assets/images/config_image/diamond-size/2.png",
+        "name": "1.50"
+      },
+      {
+        "id": 6,
+        "sort_code": "3ct",
+        "image": "/assets/images/config_image/diamond-size/2.png",
+        "name": "3.00"
+      }
+    ]
+  },
+  "ring_Head": {
+    "title": "Ring Head",
+    "component": [
+      {
+        "id": 1,
+        "is_diamond": 1,
+        "sort_code": "SH",
+        "design_identifier": "classicsinglehalo",
+        "image": "/assets/images/config_image/ring-head/SH.jpg",
+        "name": "Single Halo"
+      },
+      {
+        "id": 2,
+        "is_diamond": 0,
+        "sort_code": "H-4P",
+        "design_identifier": "classicsinglehalo",
+        "image": "/assets/images/config_image/ring-head/4P.jpg",
+        "name": "4 Prongs"
+      },
+      {
+        "id": 3,
+        "is_diamond": 1,
+        "sort_code": "H-4PP",
+        "design_identifier": "classicsinglehalo",
+        "image": "/assets/images/config_image/ring-head/4PP.jpg",
+        "name": "4 Prongs Pave"
+      },
+      {
+        "id": 5,
+        "sort_code": "H-4PPH",
+        "design_identifier": "classicsinglehalo",
+        "image": "/assets/images/config_image/ring-head/4PPH.jpg",
+        "is_diamond": 0,
+        "name": "4 Prong Peg Head"
+      },
+      {
+        "id": 6,
+        "sort_code": "H-DH",
+        "design_identifier": "classicsinglehalo",
+        "image": "/assets/images/config_image/ring-head/DH.jpg",
+        "is_diamond": 1,
+        "name": "Double Halo"
+      }
+    ]
+  },
+  "ring_Head_stone": {
+    "title": "Head Stone",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "H-D",
+        "image": "/assets/images/config_image/center-diamond/diamond.png",
+        "name": "Diamond"
+      },
+      {
+        "id": 2,
+        "sort_code": "H-SA",
+        "image": "/assets/images/config_image/center-gemstone/sa.png",
+        "name": "sapphire"
+      },
+      {
+        "id": 3,
+        "sort_code": "H-BD",
+        "image": "/assets/images/config_image/center-gemstone/bd.png",
+        "name": "Black Diamond"
+      },
+      {
+        "id": 4,
+        "sort_code": "H-RU",
+        "image": "/assets/images/config_image/center-gemstone/ru.png",
+        "name": "Ruby"
+      },
+      {
+        "id": 5,
+        "sort_code": "H-EM",
+        "image": "/assets/images/config_image/center-gemstone/em.png",
+        "name": "Emerald"
+      }
+    ]
+  },
+  "ring_shank_style": {
+    "title": "Ring Shank",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "PL",
+        "is_peekaboo": 1,
+        "design_identifier": "plain",
+        "image": "/assets/images/config_image/ring-shank/S-S.jpg",
+        "name": "Single"
+      },
+      {
+        "id": 2,
+        "is_peekaboo": 0,
+        "sort_code": "TT",
+        "design_identifier": "twisted",
+        "image": "/assets/images/config_image/ring-shank/s-DT.jpg",
+        "name": "Twist"
+      },
+      {
+        "id": 3,
+        "is_peekaboo": 0,
+        "sort_code": "KE",
+        "design_identifier": "knifedge",
+        "image": "/assets/images/config_image/ring-shank/S-KE.jpg",
+        "name": "Knife Edge"
+      },
+      {
+        "id": 4,
+        "sort_code": "CD",
+        "is_peekaboo": 0,
+        "design_identifier": "cathedral",
+        "image": "/assets/images/config_image/ring-shank/S-T.jpg",
+        "name": "Cathedral"
+      },
+      {
+        "id": 5,
+        "sort_code": "SS",
+        "is_peekaboo": 1,
+        "design_identifier": "split",
+        "image": "/assets/images/config_image/ring-shank/S-D.jpg",
+        "name": "Split"
+      }
+    ]
+  },
+  "peekaboo_shape": {
+    "title": "Peekaboo Shape",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "PKS-N",
+        "image": "/assets/images/config_image/peekabo-shape/none.jpg",
+        "name": "None"
+      },
+      {
+        "id": 2,
+        "sort_code": "PKS-R",
+        "image": "/assets/images/config_image/peekabo-shape/round.jpg",
+        "name": "Round"
+      },
+      {
+        "id": 3,
+        "sort_code": "PKS-P",
+        "image": "/assets/images/config_image/peekabo-shape/princess.jpg",
+        "name": "Princess"
+      }
+    ]
+  },
+  "side_setting": {
+    "title": "Side Setting",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "PL",
+        "id_shank": 1,
+        "is_diamond": 0,
+        "design_identifier": "plain",
+        "image": "/assets/images/config_image/side-setting/S-none.jpg",
+        "name": "Plain"
+      },
+      {
+        "id": 2,
+        "id_shank": 1,
+        "sort_code": "PV",
+        "is_diamond": 1,
+        "design_identifier": "pave",
+        "image": "/assets/images/config_image/side-setting/s-up.jpg",
+        "name": "Pave"
+      },
+      {
+        "id": 3,
+        "id_shank": 1,
+        "sort_code": "CH",
+        "is_diamond": 1,
+        "design_identifier": "channel",
+        "image": "/assets/images/config_image/side-setting/s-chr.jpg",
+        "name": "Channel"
+      },
+      {
+        "id": 4,
+        "sort_code": "PP",
+        "id_shank": 1,
+        "is_diamond": 1,
+        "design_identifier": "plate prong",
+        "image": "/assets/images/config_image/side-setting/s-pr.jpg",
+        "name": "Prong"
+      },
+      {
+        "id": 5,
+        "sort_code": "UP",
+        "id_shank": 1,
+        "is_diamond": 1,
+        "design_identifier": "u micro",
+        "image": "/assets/images/config_image/side-setting/s-bd.jpg",
+        "name": "U Micro"
+      },
+      {
+        "id": 6,
+        "sort_code": "PV",
+        "id_shank": 1,
+        "is_diamond": 1,
+        "design_identifier": "pave",
+        "image": "/assets/images/config_image/side-setting/s-pv.jpg",
+        "name": "Pave"
+      },
+      {
+        "id": 7,
+        "sort_code": "PL",
+        "id_shank": 2,
+        "is_diamond": 0,
+        "design_identifier": "plain",
+        "image": "/assets/images/config_image/side-setting/dt-none.jpg",
+        "name": "Plain"
+      },
+      {
+        "id": 8,
+        "id_shank": 2,
+        "sort_code": "PV",
+        "is_diamond": 1,
+        "design_identifier": "pave",
+        "image": "/assets/images/config_image/side-setting/dt-up.jpg",
+        "name": "Pave"
+      },
+      {
+        "id": 9,
+        "id_shank": 2,
+        "sort_code": "CH",
+        "is_diamond": 1,
+        "design_identifier": "channel",
+        "image": "/assets/images/config_image/side-setting/dt-chr.jpg",
+        "name": "Channel"
+      },
+      {
+        "id": 10,
+        "sort_code": "PP",
+        "id_shank": 2,
+        "is_diamond": 1,
+        "design_identifier": "plate prong",
+        "image": "/assets/images/config_image/side-setting/dt-pr.jpg",
+        "name": "Prong"
+      },
+      {
+        "id": 11,
+        "sort_code": "UP",
+        "id_shank": 2,
+        "is_diamond": 1,
+        "design_identifier": "u micro",
+        "image": "/assets/images/config_image/side-setting/dt-bd.jpg",
+        "name": "U Micro"
+      },
+      {
+        "id": 12,
+        "sort_code": "PP",
+        "id_shank": 3,
+        "is_diamond": 0,
+        "design_identifier": "plate prong",
+        "image": "/assets/images/config_image/side-setting/ke-none.jpg",
+        "name": "Prong"
+      },
+      {
+        "id": 13,
+        "id_shank": 3,
+        "sort_code": "PV",
+        "is_diamond": 1,
+        "design_identifier": "pave",
+        "image": "/assets/images/config_image/side-setting/ke-up.jpg",
+        "name": "U-Pave"
+      },
+      {
+        "id": 14,
+        "sort_code": "PP",
+        "id_shank": 3,
+        "is_diamond": 1,
+        "design_identifier": "plate prong",
+        "image": "/assets/images/config_image/side-setting/ke-bd.jpg",
+        "name": "Prong"
+      },
+      {
+        "id": 15,
+        "sort_code": "PV",
+        "id_shank": 3,
+        "is_diamond": 1,
+        "design_identifier": "pave",
+        "image": "/assets/images/config_image/side-setting/ke-pv.jpg",
+        "name": "Pave"
+      },
+      {
+        "id": 16,
+        "sort_code": "PL",
+        "id_shank": 4,
+        "is_diamond": 0,
+        "design_identifier": "plain",
+        "image": "/assets/images/config_image/side-setting/t-none.jpg",
+        "name": "Plain"
+      },
+      {
+        "id": 17,
+        "id_shank": 4,
+        "sort_code": "PV",
+        "is_diamond": 1,
+        "design_identifier": "pave",
+        "image": "/assets/images/config_image/side-setting/t-up.jpg",
+        "name": "Pave"
+      },
+      {
+        "id": 18,
+        "id_shank": 4,
+        "sort_code": "CH",
+        "is_diamond": 1,
+        "design_identifier": "channel",
+        "image": "/assets/images/config_image/side-setting/t-chr.jpg",
+        "name": "Channel"
+      },
+      {
+        "id": 19,
+        "sort_code": "PP",
+        "id_shank": 4,
+        "is_diamond": 1,
+        "design_identifier": "plate prong",
+        "image": "/assets/images/config_image/side-setting/t-pr.jpg",
+        "name": "Prong"
+      },
+      {
+        "id": 20,
+        "sort_code": "UP",
+        "id_shank": 4,
+        "is_diamond": 1,
+        "design_identifier": "u micro",
+        "image": "/assets/images/config_image/side-setting/t-bd.jpg",
+        "name": "U Micro"
+      },
+      {
+        "id": 21,
+        "sort_code": "PV",
+        "id_shank": 4,
+        "is_diamond": 1,
+        "design_identifier": "pave",
+        "image": "/assets/images/config_image/side-setting/t-pv.jpg",
+        "name": "Pave"
+      },
+      {
+        "id": 22,
+        "sort_code": "PL",
+        "id_shank": 5,
+        "is_diamond": 0,
+        "design_identifier": "plain",
+        "image": "/assets/images/config_image/side-setting/d-none.jpg",
+        "name": "Plain"
+      },
+      {
+        "id": 23,
+        "id_shank": 5,
+        "sort_code": "PV",
+        "is_diamond": 1,
+        "design_identifier": "pave",
+        "image": "/assets/images/config_image/side-setting/d-up.jpg",
+        "name": "Pave"
+      },
+      {
+        "id": 24,
+        "id_shank": 5,
+        "sort_code": "CH",
+        "is_diamond": 1,
+        "design_identifier": "channel",
+        "image": "/assets/images/config_image/side-setting/d-chr.jpg",
+        "name": "Channel"
+      },
+      {
+        "id": 25,
+        "sort_code": "PP",
+        "id_shank": 5,
+        "is_diamond": 1,
+        "design_identifier": "plate prong",
+        "image": "/assets/images/config_image/side-setting/d-pr.jpg",
+        "name": "Prong"
+      },
+      {
+        "id": 26,
+        "sort_code": "UP",
+        "id_shank": 5,
+        "is_diamond": 1,
+        "design_identifier": "u micro",
+        "image": "/assets/images/config_image/side-setting/d-bd.jpg",
+        "name": "U Micro"
+      },
+      {
+        "id": 27,
+        "id_shank": 6,
+        "sort_code": "PV",
+        "is_diamond": 1,
+        "design_identifier": "pave",
+        "image": "/assets/images/config_image/side-setting/c-up.jpg",
+        "name": "Pave"
+      },
+      {
+        "id": 28,
+        "id_shank": 6,
+        "sort_code": "CH",
+        "is_diamond": 1,
+        "design_identifier": "channel",
+        "image": "/assets/images/config_image/side-setting/c-chr.jpg",
+        "name": "Channel"
+      },
+      {
+        "id": 29,
+        "sort_code": "PP",
+        "id_shank": 6,
+        "is_diamond": 1,
+        "design_identifier": "plate prong",
+        "image": "/assets/images/config_image/side-setting/c-pr.jpg",
+        "name": "Prong"
+      },
+      {
+        "id": 30,
+        "sort_code": "UP",
+        "id_shank": 6,
+        "is_diamond": 1,
+        "design_identifier": "u micro",
+        "image": "/assets/images/config_image/side-setting/c-bd.jpg",
+        "name": "U Micro"
+      },
+      {
+        "id": 31,
+        "sort_code": "PL",
+        "id_shank": 7,
+        "is_diamond": 0,
+        "design_identifier": "plain",
+        "image": "/assets/images/config_image/side-setting/S-none.jpg",
+        "name": "Plain"
+      },
+      {
+        "id": 32,
+        "id_shank": 7,
+        "sort_code": "PV",
+        "is_diamond": 1,
+        "design_identifier": "pave",
+        "image": "/assets/images/config_image/side-setting/s-up.jpg",
+        "name": "Pave"
+      },
+      {
+        "id": 33,
+        "id_shank": 7,
+        "sort_code": "CH",
+        "is_diamond": 1,
+        "design_identifier": "channel",
+        "image": "/assets/images/config_image/side-setting/s-chr.jpg",
+        "name": "Channel"
+      },
+      {
+        "id": 34,
+        "sort_code": "PP",
+        "id_shank": 7,
+        "is_diamond": 1,
+        "design_identifier": "plate prong",
+        "image": "/assets/images/config_image/side-setting/s-pr.jpg",
+        "name": "Prong"
+      },
+      {
+        "id": 35,
+        "sort_code": "UP",
+        "id_shank": 7,
+        "is_diamond": 1,
+        "design_identifier": "u micro",
+        "image": "/assets/images/config_image/side-setting/s-bd.jpg",
+        "name": "U Micro"
+      },
+      {
+        "id": 36,
+        "sort_code": "PV",
+        "id_shank": 7,
+        "is_diamond": 1,
+        "design_identifier": "pave",
+        "image": "/assets/images/config_image/side-setting/s-pv.jpg",
+        "name": "Pave"
+      }
+    ]
+  },
+  "side_carving": {
+    "title": "Carving",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "CR-P",
+        "image": "/assets/images/config_image/carving/cr-p.jpg",
+        "name": "Plain"
+      },
+      {
+        "id": 2,
+        "sort_code": "CR-L",
+        "image": "/assets/images/config_image/carving/cr-l.jpg",
+        "name": "Leaf"
+      },
+      {
+        "id": 3,
+        "id_shank": 1,
+        "sort_code": "CR-S",
+        "is_diamond": 1,
+        "image": "/assets/images/config_image/carving/cr-s.jpg",
+        "name": "Scroll"
+      },
+      {
+        "id": 4,
+        "sort_code": "CR-F",
+        "image": "/assets/images/config_image/carving/cr-f.jpg",
+        "name": "Feather"
+      }
+    ]
+  },
+  "side_Stone": {
+    "title": "Side Stone",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "SD-D",
+        "image": "/assets/images/config_image/side-diamond/sd-d.jpg",
+        "name": "Diamond"
+      },
+      {
+        "id": 2,
+        "sort_code": "SD-S",
+        "image": "/assets/images/config_image/side-diamond/sd-s.jpg",
+        "name": "Sapphire"
+      },
+      {
+        "id": 3,
+        "id_shank": 1,
+        "sort_code": "SD-A-S",
+        "is_diamond": 1,
+        "image": "/assets/images/config_image/side-diamond/sd-a-s.jpg",
+        "name": "Alt. Sapphire"
+      },
+      {
+        "id": 4,
+        "sort_code": "SD-E",
+        "image": "/assets/images/config_image/side-diamond/sd-e.jpg",
+        "name": "Sapphire"
+      },
+      {
+        "id": 5,
+        "sort_code": "SD-A-E",
+        "image": "/assets/images/config_image/side-diamond/sd-a-e.jpg",
+        "name": "Alt. Emerald"
+      },
+      {
+        "id": 6,
+        "sort_code": "SD-RU",
+        "image": "/assets/images/config_image/side-diamond/sd-ru.jpg",
+        "name": "Ruby"
+      },
+      {
+        "id": 7,
+        "sort_code": "SD-A-RU",
+        "image": "/assets/images/config_image/side-diamond/sd-a-ru.jpg",
+        "name": "Alt. Ruby"
+      },
+      {
+        "id": 8,
+        "sort_code": "SD-BD",
+        "image": "/assets/images/config_image/side-diamond/sd-bd.jpg",
+        "name": "Black Diamond"
+      },
+      {
+        "id": 9,
+        "sort_code": "SD-A-BD",
+        "image": "/assets/images/config_image/side-diamond/sd-a-bd.jpg",
+        "name": "Alt. Black Diamond"
+      }
+    ]
+  },
+  "ring_crown": {
+    "title": "Ring Crown",
+    "component": [
+      {
+        "id": 1,
+        "name": "Classic prong"
+      },
+      {
+        "id": 2,
+        "name": "Hidden halo"
+      },
+      {
+        "id": 3,
+        "name": "Single halo"
+      },
+      {
+        "id": 4,
+        "name": "Double halo"
+      }
+    ]
+  },
+  "ring_side": {
+    "title": "Ring Side",
+    "component": [
+      {
+        "id": 1,
+        "name": "Plain"
+      },
+      {
+        "id": 2,
+        "name": "Pave"
+      },
+      {
+        "id": 3,
+        "name": "Prong"
+      },
+      {
+        "id": 4,
+        "name": "Channel"
+      }
+    ]
+  },
+  "metal": {
+    "title": "Metal",
+    "component": [
+      {
+        "id": 1,
+        "is_karat": 1,
+        "sort_code": "YG",
+        "name": "14k Gold"
+      },
+      {
+        "id": 2,
+        "is_karat": 1,
+        "sort_code": "RG",
+        "name": "18k Gold"
+      },
+      {
+        "id": 3,
+        "is_karat": 0,
+        "sort_code": "PL",
+        "name": "Platinum"
+      }
+    ]
+  },
+  "ring_head_metal_tone": {
+    "title": "Ring Crown Metal",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "WG",
+        "name": "White Gold",
+        "image": "/assets/images/MetalTone/Silver.svg"
+      },
+      {
+        "id": 2,
+        "name": "Yellow Gold",
+        "sort_code": "YG",
+        "image": "/assets/images/MetalTone/Gold.svg"
+      },
+      {
+        "id": 3,
+        "name": "Rose Gold",
+        "sort_code": "RG",
+        "image": "/assets/images/MetalTone/Rose_gold.svg"
+      }
+    ]
+  },
+  "ring_shank_metal_tone": {
+    "title": "Ring Style Metal",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "WG",
+        "name": "White Gold",
+        "image": "/assets/images/MetalTone/Silver.svg"
+      },
+      {
+        "id": 2,
+        "name": "Yellow Gold",
+        "sort_code": "YG",
+        "image": "/assets/images/MetalTone/Gold.svg"
+      },
+      {
+        "id": 3,
+        "name": "Rose Gold",
+        "sort_code": "RG",
+        "image": "/assets/images/MetalTone/Rose_gold.svg"
+      }
+    ]
+  },
+  "matching_wedding_band": {
+    "title": "Ring Band Style",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "BAND-NONE",
+        "id_metal_tone": 0,
+        "image": "/assets/images/config_image/band/none.jpg",
+        "name": "No Band"
+      },
+      {
+        "id": 2,
+        "sort_code": "BAND-MATCH",
+        "id_metal_tone": 1,
+        "image": "/assets/images/config_image/band/match.jpg",
+        "name": "Matching Band"
+      }
+    ]
+  },
+  "band_metal_tone": {
+    "title": "Ring Style Metal",
+    "component": [
+      {
+        "id": 1,
+        "sort_code": "WG",
+        "name": "White Gold",
+        "image": "/assets/images/MetalTone/Silver.svg"
+      },
+      {
+        "id": 2,
+        "name": "Yellow Gold",
+        "sort_code": "YG",
+        "image": "/assets/images/MetalTone/Gold.svg"
+      },
+      {
+        "id": 3,
+        "name": "Rose Gold",
+        "sort_code": "RG",
+        "image": "/assets/images/MetalTone/Rose_gold.svg"
+      }
+    ]
+  }
+}

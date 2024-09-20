@@ -1,0 +1,2021 @@
+[
+  {
+    "id": 1,
+    "name": "Nova Halo Diamond Engagement Ring",
+    "description": "Mesmerizing ribbons of metal and pavé diamonds twist around the band and center gem of this unique halo ring.",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": false,
+    "image": {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/diamond_ring_vto/MH/BE1D3242_rose_Round_top_75_carat.png",
+      "original": "https://image.brilliantearth.com/media/carat_image/84/BE1D3242_RD_75ct_rose_side1.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 1190,
+    "variations": [
+      {
+        "id": 1,
+        "value": "Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "White Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "Rose Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "Platinum",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "H&M Global Desi",
+    "description": "Blue solid woven regular top, curved hem with tassell detailing has shoulder straps, and sleeveless",
+    "slug": "hm-global-desi",
+    "image": {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/shape_images/7402201834f1684026e24f2973be4e7c_8060311d1f399d875e448c0fa89fb992_0_.jpg",
+      "original": "https://image.brilliantearth.com/media/product_images/XI/BE1D2468_yellow_side.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-22-1.png",
+        "original": "/assets/images/products/p-22-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-22-2.png",
+        "original": "/assets/images/products/p-22-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-12-3.png",
+        "original": "/assets/images/products/p-12-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-12-4.png",
+        "original": "/assets/images/products/p-12-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 1960,
+    "variations": [
+      {
+        "id": 1,
+        "value": "Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "White Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "Rose Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "Platinum",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Camellia Diamond Engagement Ring",
+    "description": "A milgrain filament winds upwards towards round and pear shaped diamonds that rest at either side of the center stone for a subtly floral look, while a trellis-style head adds a bit of whimsy (1/10 total carat weight).",
+    "isNewArrival": false,
+    "image": {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/diamond_ring_vto/KQ/BE1D54_white_Round_top_75_carat.png",
+      "original": "https://image.brilliantearth.com/media/carat_image/F5/BE1D54_RD_75ct_white_side1.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-18-1.png",
+        "original": "/assets/images/products/p-18-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-18-2.png",
+        "original": "/assets/images/products/p-18-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-18-3.png",
+        "original": "/assets/images/products/p-18-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-18-4.png",
+        "original": "/assets/images/products/p-18-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 1290,
+    "quantity": 1,
+    "variations": [
+      {
+        "id": 1,
+        "value": "Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "White Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "Rose Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "Platinum",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Hermes  Carlton London",
+    "description": "Off-White self-striped knitted midi A-line dress, has a scoop neck, sleeveless, straight hem",
+    "slug": "hermes-carlton-london",
+    "image": {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/base_product_center_diamond_images/D3/BE1LCE500_ToiMoi_PearAccent_Round_white_carat_75.jpg",
+      "original": "https://image.brilliantearth.com/media/product_images/ZN/BE1LCE500_white_side.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-14-1.png",
+        "original": "/assets/images/products/p-14-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-14-2.png",
+        "original": "/assets/images/products/p-14-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-14-3.png",
+        "original": "/assets/images/products/p-14-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-14-4.png",
+        "original": "/assets/images/products/p-14-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 1596,
+    "variations": [
+      {
+        "id": 1,
+        "value": "Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "White Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "Rose Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "Platinum",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tapered Baguette Three Stone Diamond Engagement Ring",
+    "description": "Captivating tapered baguette diamonds are bar-set in this elegant ring, brilliantly framing the center gem. With a delicate band, this ring evokes classic beauty (1/5 total carat weight).",
+    "slug": "scuba-stand-collar-topper-jacket",
+    "image": {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/diamond_ring_vto/FJ/BE503TB230_yellow_Emerald_top_2_carat.png",
+      "original": "https://image.brilliantearth.com/media/carat_image/2F/BE503TB230_EM_200ct_yellow_side1.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://image.brilliantearth.com/media/product_images/A3/BE503TB230_yellow_additional1.jpg",
+        "original": "https://image.brilliantearth.com/media/product_images/A3/BE503TB230_yellow_additional1.jpg"
+      },
+      {
+        "id": 2,
+        "thumbnail": "https://image.brilliantearth.com/media/product_images/A9/BE503TB230LC.jpg",
+        "original": "https://image.brilliantearth.com/media/product_images/A9/BE503TB230LC.jpg"
+      },
+      {
+        "id": 3,
+        "thumbnail": "https://image.brilliantearth.com/media/carat_image/A5/BE503TB230_EM_200ct_yellow_side2.jpg",
+        "original": "https://image.brilliantearth.com/media/carat_image/A5/BE503TB230_EM_200ct_yellow_side2.jpg"
+      },
+      {
+        "id": 4,
+        "thumbnail": "https://image.brilliantearth.com/media/product_images/PU/BE503TB230_additional3.jpg",
+        "original": "https://image.brilliantearth.com/media/product_images/PU/BE503TB230_additional3.jpg"
+      }
+    ],
+    "price": "",
+    "sale_price": 1290,
+    "variations": [
+      {
+        "id": 1,
+        "value": "Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "White Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "Rose Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "Platinum",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "East West Tapered Baguette Diamond Engagement Ring",
+    "description": "This modern ring takes a classic silhouette and elevates it with the addition of east west set tapered baguette diamonds that shine brightly, making this style the perfect choice for anyone looking for a three stone ring with a twist (1/5 total carat weight).",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/base_product_center_diamond_images/I7/BE1D1964_HorizontalBead_Emerald_yellow_carat_125.jpg",
+      "original": "https://image.brilliantearth.com/media/product_images/EN/BE1D1964_yellow_side.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://image.brilliantearth.com/media/base_product_center_diamond_images/I7/BE1D1964_HorizontalBead_Emerald_yellow_carat_125.jpg",
+        "original": "https://image.brilliantearth.com/media/base_product_center_diamond_images/I7/BE1D1964_HorizontalBead_Emerald_yellow_carat_125.jpg"
+      },
+      {
+        "id": 2,
+        "thumbnail": "https://image.brilliantearth.com/media/product_images/EN/BE1D1964_yellow_side.jpg",
+        "original": "https://image.brilliantearth.com/media/product_images/EN/BE1D1964_yellow_side.jpg"
+      },
+      {
+        "id": 3,
+        "thumbnail": "https://image.brilliantearth.com/media/product_images/8B/expires_oct2024_102422_SL_HP_MinimalistGifts_HERO.jpg",
+        "original": "https://image.brilliantearth.com/media/product_images/8B/expires_oct2024_102422_SL_HP_MinimalistGifts_HERO.jpg"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-16-4.png",
+        "original": "/assets/images/products/p-16-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 1360,
+    "quantity": 1,
+    "variations": [
+      {
+        "id": 1,
+        "value": "Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "White Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "Rose Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "Platinum",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Jaqueline Art Deco Diamond Engagement Ring",
+    "description": "This Art Deco-inspired three stone ring perfectly blends modern and vintage styles with two round diamonds in unique sunburst shapes that rest alongside the glittering center stone (1/8 total carat weight).",
+    "slug": "short-sleeve-shirts-for-men",
+    "image": {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/diamond_ring_vto/2N/BE1D916767_yellow_Round_top_75_carat.png",
+      "original": "https://image.brilliantearth.com/media/carat_image/F2/BE1D916767_RD_75ct_yellow_side1.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://image.brilliantearth.com/media/diamond_ring_vto/2N/BE1D916767_yellow_Round_top_75_carat.png",
+        "original": "https://image.brilliantearth.com/media/diamond_ring_vto/2N/BE1D916767_yellow_Round_top_75_carat.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "https://image.brilliantearth.com/media/carat_image/F2/BE1D916767_RD_75ct_yellow_side1.jpg",
+        "original": "https://image.brilliantearth.com/media/carat_image/F2/BE1D916767_RD_75ct_yellow_side1.jpg"
+      },
+      {
+        "id": 3,
+        "thumbnail": "https://image.brilliantearth.com/media/carat_image/98/BE1D916767_RD_75ct_yellow_side2.jpg",
+        "original": "https://image.brilliantearth.com/media/carat_image/98/BE1D916767_RD_75ct_yellow_side2.jpg"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-17-4.png",
+        "original": "/assets/images/products/p-17-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 1259,
+    "variations": [
+      {
+        "id": 1,
+        "value": "Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "White Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "Rose Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "Platinum",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Anita Art Deco Ring",
+    "description": "Motifs reminiscent of Art Deco architecture wrap half of the way around this design-forward ring for a look that is all at once sophisticated and trendy.",
+    "slug": "blazer-and-a-neck-scarf",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/product_images/C7/BE26314_yellow_top_old.jpg",
+      "original": "https://image.brilliantearth.com/media/product_images/EF/BE26314_yellow_side_old.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://image.brilliantearth.com/media/product_images/C7/BE26314_yellow_top_old.jpg",
+        "original": "https://image.brilliantearth.com/media/product_images/C7/BE26314_yellow_top_old.jpg"
+      },
+      {
+        "id": 2,
+        "thumbnail": "https://image.brilliantearth.com/media/product_images/EF/BE26314_yellow_side_old.jpg",
+        "original": "https://image.brilliantearth.com/media/product_images/EF/BE26314_yellow_side_old.jpg"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-13-1.png",
+        "original": "/assets/images/products/p-13-1.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-13-2.png",
+        "original": "/assets/images/products/p-13-2.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 790,
+    "variations": [
+      {
+        "id": 1,
+        "value": "Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "White Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "Rose Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "Platinum",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Flair Diamond Ring (1/6 ct. tw.)",
+    "description": "Flair Diamond Ring (1/6 ct. tw.)",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/product_images/3D/BE2D6128_yellow_top_old.jpg",
+      "original": "https://image.brilliantearth.com/media/product_images/06/BE2D6128_yellow_side_old.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://image.brilliantearth.com/media/product_images/3D/BE2D6128_yellow_top_old.jpg",
+        "original": "https://image.brilliantearth.com/media/product_images/3D/BE2D6128_yellow_top_old.jpg"
+      },
+      {
+        "id": 2,
+        "thumbnail": "https://css.brilliantearth.com/static/img/abtest/detail/order-detail-wedding-bands.jpg",
+        "original": "https://css.brilliantearth.com/static/img/abtest/detail/order-detail-wedding-bands.jpg"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 790,
+    "variations": [
+      {
+        "id": 1,
+        "value": "Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "White Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "Rose Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "Platinum",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Flair Diamond Ring (1/6 ct. tw.)",
+    "description": "Shimmering scalloped pavé diamonds flow halfway down this band, creating a subtly curved chevron shape. This stylish ring is perfect on its own or paired with an engagement ring.",
+    "slug": "hm-global-desi",
+    "image": {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/product_new_images/1D/BE2D1812_yellow_top.jpg",
+      "original": "https://image.brilliantearth.com/media/product_new_images/5D/BE2D1812_yellow_side1.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://image.brilliantearth.com/media/product_new_images/1D/BE2D1812_yellow_top.jpg",
+        "original": "https://image.brilliantearth.com/media/product_new_images/1D/BE2D1812_yellow_top.jpg"
+      },
+      {
+        "id": 2,
+        "thumbnail": "https://image.brilliantearth.com/media/product_images/14/BE2D1812_yellow_additional1.jpg",
+        "original": "https://image.brilliantearth.com/media/product_images/14/BE2D1812_yellow_additional1.jpg"
+      },
+      {
+        "id": 3,
+        "thumbnail": "https://image.brilliantearth.com/media/product_images/DK/BE2D1812.jpg",
+        "original": "https://image.brilliantearth.com/media/product_images/DK/BE2D1812.jpg"
+      },
+      {
+        "id": 4,
+        "thumbnail": "https://image.brilliantearth.com/media/product_new_images/5D/BE2D1812_yellow_side1.jpg",
+        "original": "https://image.brilliantearth.com/media/product_new_images/5D/BE2D1812_yellow_side1.jpg"
+      }
+    ],
+    "price": "",
+    "sale_price": 990,
+    "variations": [
+      {
+        "id": 1,
+        "value": "Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "White Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "Rose Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "Platinum",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Laurel Diamond Ring",
+    "description": "Hand-engraved fern details crafted in lustrous precious metal and prong-set diamonds create a sophisticated, delicate look in this nature-inspired ring (1/8 total carat weight).",
+    "slug": "zara-solly-white-shirt",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/product_new_images/A0/BE2D80F3_yellow_top.jpg",
+      "original": "https://image.brilliantearth.com/media/product_new_images/18/BE2D80F3_yellow_side1.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://image.brilliantearth.com/media/product_new_images/18/BE2D80F3_yellow_side1.jpg",
+        "original": "https://image.brilliantearth.com/media/product_new_images/18/BE2D80F3_yellow_side1.jpg"
+      },
+      {
+        "id": 2,
+        "thumbnail": "https://image.brilliantearth.com/media/product_new_images/18/BE2D80F3_yellow_side1.jpg",
+        "original": "https://image.brilliantearth.com/media/product_new_images/18/BE2D80F3_yellow_side1.jpg"
+      },
+      {
+        "id": 3,
+        "thumbnail": "https://image.brilliantearth.com/media/product_new_images/18/BE2D80F3_yellow_side1.jpg",
+        "original": "https://image.brilliantearth.com/media/product_new_images/18/BE2D80F3_yellow_side1.jpg"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-18-4.png",
+        "original": "/assets/images/products/p-18-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 990,
+    "quantity": 1,
+    "variations": [
+      {
+        "id": 1,
+        "value": "Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "White Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "Rose Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "Platinum",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Belvoir Art Deco Diamond Ring",
+    "description": "Tapered baguette diamonds fan across the top half of this unique ring, creating a look reminiscent of the Art Deco era with an edgy, modern twist (7/8 total carat weight).",
+    "slug": "hermes-carlton-london",
+    "image": {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/product_images/2F/BE2D6464_yellow_top_old.jpg",
+      "original": "https://image.brilliantearth.com/media/product_images/B5/BE2D6464_yellow_side_old.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://image.brilliantearth.com/media/product_images/2F/BE2D6464_yellow_top_old.jpg",
+        "original": "https://image.brilliantearth.com/media/product_images/2F/BE2D6464_yellow_top_old.jpg"
+      },
+      {
+        "id": 2,
+        "thumbnail": "https://image.brilliantearth.com/media/product_images/B5/BE2D6464_yellow_side_old.jpg",
+        "original": "https://image.brilliantearth.com/media/product_images/B5/BE2D6464_yellow_side_old.jpg"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-14-3.png",
+        "original": "/assets/images/products/p-14-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-14-4.png",
+        "original": "/assets/images/products/p-14-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 3890,
+    "variations": [
+      {
+        "id": 1,
+        "value": "Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "White Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "Rose Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "Platinum",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Scuba Stand Collar Topper Jacket",
+    "description": "Zara provides only the highest-quality selection of dresses, womens suits, and suited separates.",
+    "slug": "scuba-stand-collar-topper-jacket",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/products-2/p-13.png",
+      "original": "/assets/images/products/products-2/p-13-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-15-1.png",
+        "original": "/assets/images/products/p-15-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-15-2.png",
+        "original": "/assets/images/products/p-15-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-15-3.png",
+        "original": "/assets/images/products/p-15-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-15-4.png",
+        "original": "/assets/images/products/p-15-4.png"
+      }
+    ],
+    "price": 16.0,
+    "sale_price": 12.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Armani Wide-Leg Trousers",
+    "description": "Monochrome elegance. Made with a relaxed wide-leg, these trousers are made from a sustainable soft organic cotton with a mechanical stretch making the garment easily recycled.",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/products-2/p-14.png",
+      "original": "/assets/images/products/products-2/p-14-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-16-1.png",
+        "original": "/assets/images/products/p-16-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-16-2.png",
+        "original": "/assets/images/products/p-16-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-16-3.png",
+        "original": "/assets/images/products/p-16-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-16-4.png",
+        "original": "/assets/images/products/p-16-4.png"
+      }
+    ],
+    "price": 80.0,
+    "sale_price": 60.0,
+    "quantity": 1,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Short Sleeve Shirts For Men",
+    "description": "From casual days out to parties, dinners and other events that call for a dressier look, a short sleeve shirt is a versatile piece that works for all kinds of occasions.",
+    "slug": "short-sleeve-shirts-for-men",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/products-2/p-15.png",
+      "original": "/assets/images/products/products-2/p-15-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-17-1.png",
+        "original": "/assets/images/products/p-17-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-17-2.png",
+        "original": "/assets/images/products/p-17-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-17-3.png",
+        "original": "/assets/images/products/p-17-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-17-4.png",
+        "original": "/assets/images/products/p-17-4.png"
+      }
+    ],
+    "price": 18.99,
+    "sale_price": 12.99,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Blazer And A Neck Scarf",
+    "description": "blue short sleeve basic midi dress featuring a crew neckline in a jersey fabric.",
+    "slug": "blazer-and-a-neck-scarf",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/products-2/p-16.png",
+      "original": "/assets/images/products/products-2/p-16-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-13-1.png",
+        "original": "/assets/images/products/p-13-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-13-2.png",
+        "original": "/assets/images/products/p-13-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-13-1.png",
+        "original": "/assets/images/products/p-13-1.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-13-2.png",
+        "original": "/assets/images/products/p-13-2.png"
+      }
+    ],
+    "price": 23.0,
+    "sale_price": 13.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Zara Solly White Shirt",
+    "description": "For a chic and smart look, don this white shirt from Solly by Allen Solly. Crafted from a cotton-nylon blend with a hint of stretch, this design features a dotted pattern. Wear this 3/4th sleeves shirt with trousers and wedges to a client meeting.",
+    "slug": "zara-solly-white-shirt",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/products-2/p-17.png",
+      "original": "/assets/images/products/products-2/p-17-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-18-1.png",
+        "original": "/assets/images/products/p-18-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-18-2.png",
+        "original": "/assets/images/products/p-18-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-18-3.png",
+        "original": "/assets/images/products/p-18-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-18-4.png",
+        "original": "/assets/images/products/p-18-4.png"
+      }
+    ],
+    "price": 32.0,
+    "sale_price": 25.0,
+    "quantity": 1,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Hermes  Carlton London",
+    "description": "Off-White self-striped knitted midi A-line dress, has a scoop neck, sleeveless, straight hem",
+    "slug": "hermes-carlton-london",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/products-2/p-18.png",
+      "original": "/assets/images/products/products-2/p-18-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-14-1.png",
+        "original": "/assets/images/products/p-14-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-14-2.png",
+        "original": "/assets/images/products/p-14-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-14-3.png",
+        "original": "/assets/images/products/p-14-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-14-4.png",
+        "original": "/assets/images/products/p-14-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 15.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Scuba Stand Collar Topper Jacket",
+    "description": "Zara provides only the highest-quality selection of dresses, womens suits, and suited separates.",
+    "slug": "scuba-stand-collar-topper-jacket",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/products-2/p-19.png",
+      "original": "/assets/images/products/products-2/p-19-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-15-1.png",
+        "original": "/assets/images/products/p-15-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-15-2.png",
+        "original": "/assets/images/products/p-15-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-15-3.png",
+        "original": "/assets/images/products/p-15-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-15-4.png",
+        "original": "/assets/images/products/p-15-4.png"
+      }
+    ],
+    "price": 16.0,
+    "sale_price": 12.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Armani Wide-Leg Trousers",
+    "description": "Monochrome elegance. Made with a relaxed wide-leg, these trousers are made from a sustainable soft organic cotton with a mechanical stretch making the garment easily recycled.",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/products-2/p-20.png",
+      "original": "/assets/images/products/products-2/p-20-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-16-1.png",
+        "original": "/assets/images/products/p-16-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-16-2.png",
+        "original": "/assets/images/products/p-16-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-16-3.png",
+        "original": "/assets/images/products/p-16-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-16-4.png",
+        "original": "/assets/images/products/p-16-4.png"
+      }
+    ],
+    "price": 80.0,
+    "sale_price": 60.0,
+    "quantity": 1,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Short Sleeve Shirts For Men",
+    "description": "From casual days out to parties, dinners and other events that call for a dressier look, a short sleeve shirt is a versatile piece that works for all kinds of occasions.",
+    "slug": "short-sleeve-shirts-for-men",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/products-2/p-21.png",
+      "original": "/assets/images/products/products-2/p-21-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-17-1.png",
+        "original": "/assets/images/products/p-17-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-17-2.png",
+        "original": "/assets/images/products/p-17-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-17-3.png",
+        "original": "/assets/images/products/p-17-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-17-4.png",
+        "original": "/assets/images/products/p-17-4.png"
+      }
+    ],
+    "price": 18.99,
+    "sale_price": 12.99,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Blazer And A Neck Scarf",
+    "description": "blue short sleeve basic midi dress featuring a crew neckline in a jersey fabric.",
+    "slug": "blazer-and-a-neck-scarf",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/products-2/p-22.png",
+      "original": "/assets/images/products/products-2/p-22-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-13-1.png",
+        "original": "/assets/images/products/p-13-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-13-2.png",
+        "original": "/assets/images/products/p-13-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-13-1.png",
+        "original": "/assets/images/products/p-13-1.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-13-2.png",
+        "original": "/assets/images/products/p-13-2.png"
+      }
+    ],
+    "price": 23.0,
+    "sale_price": 13.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,3116 @@
+{
+    "dataone": [
+        {
+            "title": "Stone 1",
+            "gemstone": [
+                {
+                    "id": 1,
+                    "name": "Jan",
+                    "sort_code": "GARNET",
+                    "price": "20",
+                    "image": "/assets/images/config_image/gemstone/1.png"
+                },
+                {
+                    "id": 2,
+                    "name": "Feb",
+                    "sort_code": "AMETHYST",
+                    "price": "23",
+                    "image": "/assets/images/config_image/gemstone/2.png"
+                },
+                {
+                    "id": 3,
+                    "name": "Mar",
+                    "sort_code": "AQUAMARINE",
+                    "price": "25",
+                    "image": "/assets/images/config_image/gemstone/3.png"
+                },
+                {
+                    "id": 4,
+                    "name": "Apr",
+                    "sort_code": "WHITE TOPAZ",
+                    "price": "28",
+                    "image": "/assets/images/config_image/gemstone/4.png"
+                },
+                {
+                    "id": 5,
+                    "name": "May",
+                    "sort_code": "EMERALD",
+                    "price": "31",
+                    "image": "/assets/images/config_image/gemstone/5.png"
+                },
+                {
+                    "id": 6,
+                    "name": "Jun",
+                    "sort_code": "ALEXANDRITE",
+                    "price": "33",
+                    "image": "/assets/images/config_image/gemstone/6.png"
+                },
+                {
+                    "id": 7,
+                    "name": "Jul",
+                    "sort_code": "RUBY",
+                    "price": "37",
+                    "image": "/assets/images/config_image/gemstone/7.png"
+                },
+                {
+                    "id": 8,
+                    "name": "Aug",
+                    "sort_code": "PERIDOT",
+                    "price": "39",
+                    "image": "/assets/images/config_image/gemstone/8.png"
+                },
+                {
+                    "id": 9,
+                    "name": "Sep",
+                    "sort_code": "SAPHHAIR",
+                    "price": "40",
+                    "image": "/assets/images/config_image/gemstone/9.png"
+                },
+                {
+                    "id": 10,
+                    "name": "Oct",
+                    "sort_code": "PINK TOURMALINE",
+                    "price": "42",
+                    "image": "/assets/images/config_image/gemstone/10.png"
+                },
+                {
+                    "id": 11,
+                    "name": "Nov",
+                    "sort_code": "CITRIN",
+                    "price": "20",
+                    "image": "/assets/images/config_image/gemstone/11.png"
+                },
+                {
+                    "id": 12,
+                    "name": "Dec",
+                    "sort_code": "BLUE TOPAZ",
+                    "price": "38",
+                    "image": "/assets/images/config_image/gemstone/12.png"
+                }
+            ]
+        },
+        {
+            "title": "Stone 2",
+            "gemstone": [
+                {
+                    "id": 1,
+                    "name": "Jan",
+                    "sort_code": "GARNET",
+                    "price": "20",
+                    "image": "/assets/images/config_image/gemstone/1.png"
+                },
+                {
+                    "id": 2,
+                    "name": "Feb",
+                    "sort_code": "AMETHYST",
+                    "price": "23",
+                    "image": "/assets/images/config_image/gemstone/2.png"
+                },
+                {
+                    "id": 3,
+                    "name": "Mar",
+                    "sort_code": "AQUAMARINE",
+                    "price": "25",
+                    "image": "/assets/images/config_image/gemstone/3.png"
+                },
+                {
+                    "id": 4,
+                    "name": "Apr",
+                    "sort_code": "WHITE TOPAZ",
+                    "price": "28",
+                    "image": "/assets/images/config_image/gemstone/4.png"
+                },
+                {
+                    "id": 5,
+                    "name": "May",
+                    "sort_code": "EMERALD",
+                    "price": "31",
+                    "image": "/assets/images/config_image/gemstone/5.png"
+                },
+                {
+                    "id": 6,
+                    "name": "Jun",
+                    "sort_code": "ALEXANDRITE",
+                    "price": "33",
+                    "image": "/assets/images/config_image/gemstone/6.png"
+                },
+                {
+                    "id": 7,
+                    "name": "Jul",
+                    "sort_code": "RUBY",
+                    "price": "37",
+                    "image": "/assets/images/config_image/gemstone/7.png"
+                },
+                {
+                    "id": 8,
+                    "name": "Aug",
+                    "sort_code": "PERIDOT",
+                    "price": "39",
+                    "image": "/assets/images/config_image/gemstone/8.png"
+                },
+                {
+                    "id": 9,
+                    "name": "Sep",
+                    "sort_code": "SAPHHAIR",
+                    "price": "40",
+                    "image": "/assets/images/config_image/gemstone/9.png"
+                },
+                {
+                    "id": 10,
+                    "name": "Oct",
+                    "sort_code": "PINK TOURMALINE",
+                    "price": "42",
+                    "image": "/assets/images/config_image/gemstone/10.png"
+                },
+                {
+                    "id": 11,
+                    "name": "Nov",
+                    "sort_code": "CITRIN",
+                    "price": "20",
+                    "image": "/assets/images/config_image/gemstone/11.png"
+                },
+                {
+                    "id": 12,
+                    "name": "Dec",
+                    "sort_code": "BLUE TOPAZ",
+                    "price": "38",
+                    "image": "/assets/images/config_image/gemstone/12.png"
+                }
+            ]
+        }
+    ],
+    "stone2": [
+        {
+            "title": "Stone 2",
+            "gemstone": [
+                {
+                    "id": 1,
+                    "name": "Jan",
+                    "sort_code": "GARNET",
+                    "image": "/assets/images/config_image/gemstone/1.png"
+                },
+                {
+                    "id": 2,
+                    "name": "Feb",
+                    "sort_code": "AMETHYST",
+                    "image": "/assets/images/config_image/gemstone/2.png"
+                },
+                {
+                    "id": 3,
+                    "name": "Mar",
+                    "sort_code": "AQUAMARINE",
+                    "image": "/assets/images/config_image/gemstone/3.png"
+                },
+                {
+                    "id": 4,
+                    "name": "Apr",
+                    "sort_code": "WHITE TOPAZ",
+                    "image": "/assets/images/config_image/gemstone/4.png"
+                },
+                {
+                    "id": 5,
+                    "name": "May",
+                    "sort_code": "EMERALD",
+                    "image": "/assets/images/config_image/gemstone/5.png"
+                },
+                {
+                    "id": 6,
+                    "name": "Jun",
+                    "sort_code": "ALEXANDRITE",
+                    "image": "/assets/images/config_image/gemstone/6.png"
+                },
+                {
+                    "id": 7,
+                    "name": "Jul",
+                    "sort_code": "RUBY",
+                    "image": "/assets/images/config_image/gemstone/7.png"
+                },
+                {
+                    "id": 8,
+                    "name": "Aug",
+                    "sort_code": "PERIDOT",
+                    "image": "/assets/images/config_image/gemstone/8.png"
+                },
+                {
+                    "id": 9,
+                    "name": "Sep",
+                    "sort_code": "SAPHHAIR",
+                    "image": "/assets/images/config_image/gemstone/9.png"
+                },
+                {
+                    "id": 10,
+                    "name": "Oct",
+                    "sort_code": "PINK TOURMALINE",
+                    "image": "/assets/images/config_image/gemstone/10.png"
+                },
+                {
+                    "id": 11,
+                    "name": "Nov",
+                    "sort_code": "CITRIN",
+                    "image": "/assets/images/config_image/gemstone/11.png"
+                },
+                {
+                    "id": 12,
+                    "name": "Dec",
+                    "sort_code": "BLUE TOPAZ",
+                    "image": "/assets/images/config_image/gemstone/12.png"
+                }
+            ]
+        }
+    ],
+    "metal_tone": [
+        {
+            "id": 1,
+            "sort_code": "WG",
+            "name": "White Gold",
+            "image_path": "images/metalTone/image-WG.svg-1693728466105.svg"
+        },
+        {
+            "id": 2,
+            "name": "Yellow Gold",
+            "sort_code": "YG",
+            "image_path": "images/metalTone/image-YG.svg-1693728478134.svg"
+        },
+        {
+            "id": 3,
+            "name": "Rose Gold",
+            "sort_code": "RG",
+            "image_path": "images/metalTone/image-RG.svg-1693728490422.svg"
+        }
+    ],
+    "metal": [
+        {
+            "id": 1,
+            "is_karat": 1,
+            "karat": 9,
+            "slug": "Sterling Silver",
+            "price": 5005,
+            "name": "Silver"
+        },
+        {
+            "id": 2,
+            "is_karat": 1,
+            "karat": 9,
+            "slug": "9ct",
+            "price": 5005,
+            "name": "Gold"
+        },
+        {
+            "id": 3,
+            "is_karat": 0,
+            "karat": null,
+            "slug": "18ct",
+            "price": 8907,
+            "name": "Gold"
+        }
+    ],
+    "productList1": [
+        {
+            "id": 1,
+            "name": "Birth Stone Pendant",
+            "sku": "CDI-PD-CR-1266",
+            "slug": "create-birthstone-3d-local-pendant-1",
+            "sort_description": "Birth Stone Pendant",
+            "long_description": "Birth Stone Pendant",
+            "product_price": "3904.800",
+            "is_wishlist": "0",
+            "image_path": "/assets/images/products/pendet.png",
+            "glb_path": "VM-PD-R-33322",
+            "eng_glb_path": "VM-PD-R-33322",
+            "gemstone_glb_name": {
+                "one": "Gem_1",
+                "two": "Gem_2",
+                "three": "Gem_3",
+                "four": "Gem_4",
+                "five": "Gem_5"
+            },
+            "dataone": [
+                {
+                    "title": "Birthstone 1",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Birthstone 2",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Birthstone 3",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Birthstone 4",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Birthstone 5",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                }
+            ],
+            "metal_tone": {
+                "title": "Metal Tone",
+                "component": [
+                    {
+                        "id": 1,
+                        "sort_code": "WG",
+                        "name": "White Gold",
+                        "image_path": "images/metalTone/image-WG.svg-1693728466105.svg"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Yellow Gold",
+                        "sort_code": "YG",
+                        "image_path": "images/metalTone/image-YG.svg-1693728478134.svg"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Rose Gold",
+                        "sort_code": "RG",
+                        "image_path": "images/metalTone/image-RG.svg-1693728490422.svg"
+                    }
+                ]
+            },
+            "metal": {
+                "title": "Metal",
+                "component": [
+                    {
+                        "id": 1,
+                        "is_karat": 1,
+                        "karat": 9,
+                        "sort_code": "9ct",
+                        "price": 5005,
+                        "name": "Gold"
+                    },
+                    {
+                        "id": 3,
+                        "is_karat": 0,
+                        "karat": null,
+                        "sort_code": "SL",
+                        "price": 8907,
+                        "name": "Silver"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Birth Stone Ring",
+            "sku": "CDI-PD-CR-1267",
+            "slug": "create-birthstone-3d-local-ring",
+            "sort_description": "Birth Stone Ring",
+            "long_description": "Birth Stone Ring",
+            "product_price": "5678.89",
+            "is_wishlist": "0",
+            "image_path": "/assets/images/products/ring.png",
+            "glb_path": "VM-RN-R-33330",
+            "eng_glb_path": "VM-RN-R-33330-UV",
+            "gemstone_glb_name": {
+                "one": "Diamond_1",
+                "two": "Diamond_2"
+            },
+            "dataone": [
+                {
+                    "title": "Birthstone 1",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Birthstone 2",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                }
+            ],
+            "metal_tone": {
+                "title": "Metal Tone",
+                "component": [
+                    {
+                        "id": 1,
+                        "sort_code": "WG",
+                        "name": "White Gold",
+                        "image_path": "images/metalTone/image-WG.svg-1693728466105.svg"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Yellow Gold",
+                        "sort_code": "YG",
+                        "image_path": "images/metalTone/image-YG.svg-1693728478134.svg"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Rose Gold",
+                        "sort_code": "RG",
+                        "image_path": "images/metalTone/image-RG.svg-1693728490422.svg"
+                    }
+                ]
+            },
+            "metal": {
+                "title": "Metal",
+                "component": [
+                    {
+                        "id": 1,
+                        "is_karat": 1,
+                        "karat": 9,
+                        "sort_code": "9ct",
+                        "price": 5005,
+                        "name": "Gold"
+                    },
+                    {
+                        "id": 3,
+                        "is_karat": 0,
+                        "karat": null,
+                        "sort_code": "SL",
+                        "price": 8907,
+                        "name": "Silver"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "Birth Stone Pendant",
+            "sku": "CDI-PD-CR-1268",
+            "slug": "create-birthstone-3d-local-pendant-2",
+            "sort_description": "Birth Stone Pendant",
+            "long_description": "Birth Stone Pendant",
+            "product_price": "5678.89",
+            "is_wishlist": "0",
+            "image_path": "/assets/images/products/pendet-2.png",
+            "glb_path": "VM-PD-R-33324",
+            "eng_glb_path": "VM-PD-R-33324 UV",
+            "gemstone_glb_name": {
+                "one": "Gem_1",
+                "two": "Gem_2",
+                "three": "Gem_3",
+                "four": "Gem_4",
+                "five": "Gem_5"
+            },
+            "dataone": [
+                {
+                    "title": "Stone 1",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Stone 2",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Stone 3",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Stone 4",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Stone 5",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                }
+            ],
+            "metal_tone": {
+                "title": "Metal Tone",
+                "component": [
+                    {
+                        "id": 1,
+                        "sort_code": "WG",
+                        "name": "White Gold",
+                        "image_path": "images/metalTone/image-WG.svg-1693728466105.svg"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Yellow Gold",
+                        "sort_code": "YG",
+                        "image_path": "images/metalTone/image-YG.svg-1693728478134.svg"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Rose Gold",
+                        "sort_code": "RG",
+                        "image_path": "images/metalTone/image-RG.svg-1693728490422.svg"
+                    }
+                ]
+            },
+            "metal": {
+                "title": "Metal",
+                "component": [
+                    {
+                        "id": 1,
+                        "is_karat": 1,
+                        "karat": 9,
+                        "sort_code": "9K",
+                        "price": 5005,
+                        "name": "Gold"
+                    },
+                    {
+                        "id": 3,
+                        "is_karat": 0,
+                        "karat": null,
+                        "sort_code": "SL",
+                        "price": 8907,
+                        "name": "Silver"
+                    }
+                ]
+            }
+        }
+    ],
+    "data": [
+        {
+            "title": "Birthstone 1",
+            "gemstone": [
+                {
+                    "id": 1,
+                    "name": "Garnet",
+                    "sort_code": "January",
+                    "price": "20",
+                    "image_path": "images/gemstones/image-1.png-1697796860547.png"
+                },
+                {
+                    "id": 2,
+                    "name": "Amethst",
+                    "sort_code": "February",
+                    "price": "23",
+                    "image_path": "images/gemstones/image-2.png-1697797209774.png"
+                },
+                {
+                    "id": 3,
+                    "name": "Aquamarine",
+                    "sort_code": "March",
+                    "price": "25",
+                    "image_path": "images/gemstones/image-3.png-1697797220197.png"
+                },
+                {
+                    "id": 4,
+                    "name": "White Topaz",
+                    "sort_code": "April",
+                    "price": "28",
+                    "image_path": "images/gemstones/image-4.png-1697798368643.png"
+                },
+                {
+                    "id": 5,
+                    "name": "Emerald",
+                    "sort_code": "May",
+                    "price": "31",
+                    "image_path": "images/gemstones/image-5.png-1697798332243.png"
+                },
+                {
+                    "id": 6,
+                    "name": "Alexandrite",
+                    "sort_code": "June",
+                    "price": "33",
+                    "image_path": "images/gemstones/image-16.png-1697798020773.png"
+                },
+                {
+                    "id": 7,
+                    "name": "Ruby",
+                    "sort_code": "July",
+                    "price": "37",
+                    "image_path": "images/gemstones/image-7.png-1697798423028.png"
+                },
+                {
+                    "id": 8,
+                    "name": "Peridot",
+                    "sort_code": "August",
+                    "price": "39",
+                    "image_path": "images/gemstones/image-8.png-1697798232761.png"
+                },
+                {
+                    "id": 9,
+                    "name": "Saphhair",
+                    "sort_code": "September",
+                    "price": "40",
+                    "image_path": "images/gemstones/image-9.png-1697798352486.png"
+                },
+                {
+                    "id": 10,
+                    "name": "Pink Tourmaline",
+                    "sort_code": "October",
+                    "price": "42",
+                    "image_path": "images/gemstones/image-15.png-1697797928752.png"
+                },
+                {
+                    "id": 11,
+                    "name": "Citrin",
+                    "sort_code": "November",
+                    "price": "20",
+                    "image_path": "images/gemstones/image-13.png-1697797469837.png"
+                },
+                {
+                    "id": 12,
+                    "name": "Blue Topaz",
+                    "sort_code": "December",
+                    "price": "38",
+                    "image_path": "images/gemstones/image-14.png-1697797819969.png"
+                }
+            ]
+        },
+        {
+            "title": "Birthstone 2",
+            "gemstone": [
+                {
+                    "id": 1,
+                    "name": "Garnet",
+                    "sort_code": "January",
+                    "price": "20",
+                    "image_path": "images/gemstones/image-1.png-1697796860547.png"
+                },
+                {
+                    "id": 2,
+                    "name": "Amethst",
+                    "sort_code": "February",
+                    "price": "23",
+                    "image_path": "images/gemstones/image-2.png-1697797209774.png"
+                },
+                {
+                    "id": 3,
+                    "name": "Aquamarine",
+                    "sort_code": "March",
+                    "price": "25",
+                    "image_path": "images/gemstones/image-3.png-1697797220197.png"
+                },
+                {
+                    "id": 4,
+                    "name": "White Topaz",
+                    "sort_code": "April",
+                    "price": "28",
+                    "image_path": "images/gemstones/image-4.png-1697798368643.png"
+                },
+                {
+                    "id": 5,
+                    "name": "Emerald",
+                    "sort_code": "May",
+                    "price": "31",
+                    "image_path": "images/gemstones/image-5.png-1697798332243.png"
+                },
+                {
+                    "id": 6,
+                    "name": "Alexandrite",
+                    "sort_code": "June",
+                    "price": "33",
+                    "image_path": "images/gemstones/image-16.png-1697798020773.png"
+                },
+                {
+                    "id": 7,
+                    "name": "Ruby",
+                    "sort_code": "July",
+                    "price": "37",
+                    "image_path": "images/gemstones/image-7.png-1697798423028.png"
+                },
+                {
+                    "id": 8,
+                    "name": "Peridot",
+                    "sort_code": "August",
+                    "price": "39",
+                    "image_path": "images/gemstones/image-8.png-1697798232761.png"
+                },
+                {
+                    "id": 9,
+                    "name": "Saphhair",
+                    "sort_code": "September",
+                    "price": "40",
+                    "image_path": "images/gemstones/image-9.png-1697798352486.png"
+                },
+                {
+                    "id": 10,
+                    "name": "Pink Tourmaline",
+                    "sort_code": "October",
+                    "price": "42",
+                    "image_path": "images/gemstones/image-15.png-1697797928752.png"
+                },
+                {
+                    "id": 11,
+                    "name": "Citrin",
+                    "sort_code": "November",
+                    "price": "20",
+                    "image_path": "images/gemstones/image-13.png-1697797469837.png"
+                },
+                {
+                    "id": 12,
+                    "name": "Blue Topaz",
+                    "sort_code": "December",
+                    "price": "38",
+                    "image_path": "images/gemstones/image-14.png-1697797819969.png"
+                }
+            ]
+        },
+        {
+            "title": "Birthstone 3",
+            "gemstone": [
+                {
+                    "id": 1,
+                    "name": "Garnet",
+                    "sort_code": "January",
+                    "price": "20",
+                    "image_path": "images/gemstones/image-1.png-1697796860547.png"
+                },
+                {
+                    "id": 2,
+                    "name": "Amethst",
+                    "sort_code": "February",
+                    "price": "23",
+                    "image_path": "images/gemstones/image-2.png-1697797209774.png"
+                },
+                {
+                    "id": 3,
+                    "name": "Aquamarine",
+                    "sort_code": "March",
+                    "price": "25",
+                    "image_path": "images/gemstones/image-3.png-1697797220197.png"
+                },
+                {
+                    "id": 4,
+                    "name": "White Topaz",
+                    "sort_code": "April",
+                    "price": "28",
+                    "image_path": "images/gemstones/image-4.png-1697798368643.png"
+                },
+                {
+                    "id": 5,
+                    "name": "Emerald",
+                    "sort_code": "May",
+                    "price": "31",
+                    "image_path": "images/gemstones/image-5.png-1697798332243.png"
+                },
+                {
+                    "id": 6,
+                    "name": "Alexandrite",
+                    "sort_code": "June",
+                    "price": "33",
+                    "image_path": "images/gemstones/image-16.png-1697798020773.png"
+                },
+                {
+                    "id": 7,
+                    "name": "Ruby",
+                    "sort_code": "July",
+                    "price": "37",
+                    "image_path": "images/gemstones/image-7.png-1697798423028.png"
+                },
+                {
+                    "id": 8,
+                    "name": "Peridot",
+                    "sort_code": "August",
+                    "price": "39",
+                    "image_path": "images/gemstones/image-8.png-1697798232761.png"
+                },
+                {
+                    "id": 9,
+                    "name": "Saphhair",
+                    "sort_code": "September",
+                    "price": "40",
+                    "image_path": "images/gemstones/image-9.png-1697798352486.png"
+                },
+                {
+                    "id": 10,
+                    "name": "Pink Tourmaline",
+                    "sort_code": "October",
+                    "price": "42",
+                    "image_path": "images/gemstones/image-15.png-1697797928752.png"
+                },
+                {
+                    "id": 11,
+                    "name": "Citrin",
+                    "sort_code": "November",
+                    "price": "20",
+                    "image_path": "images/gemstones/image-13.png-1697797469837.png"
+                },
+                {
+                    "id": 12,
+                    "name": "Blue Topaz",
+                    "sort_code": "December",
+                    "price": "38",
+                    "image_path": "images/gemstones/image-14.png-1697797819969.png"
+                }
+            ]
+        },
+        {
+            "title": "Birthstone 4",
+            "gemstone": [
+                {
+                    "id": 1,
+                    "name": "Garnet",
+                    "sort_code": "January",
+                    "price": "20",
+                    "image_path": "images/gemstones/image-1.png-1697796860547.png"
+                },
+                {
+                    "id": 2,
+                    "name": "Amethst",
+                    "sort_code": "February",
+                    "price": "23",
+                    "image_path": "images/gemstones/image-2.png-1697797209774.png"
+                },
+                {
+                    "id": 3,
+                    "name": "Aquamarine",
+                    "sort_code": "March",
+                    "price": "25",
+                    "image_path": "images/gemstones/image-3.png-1697797220197.png"
+                },
+                {
+                    "id": 4,
+                    "name": "White Topaz",
+                    "sort_code": "April",
+                    "price": "28",
+                    "image_path": "images/gemstones/image-4.png-1697798368643.png"
+                },
+                {
+                    "id": 5,
+                    "name": "Emerald",
+                    "sort_code": "May",
+                    "price": "31",
+                    "image_path": "images/gemstones/image-5.png-1697798332243.png"
+                },
+                {
+                    "id": 6,
+                    "name": "Alexandrite",
+                    "sort_code": "June",
+                    "price": "33",
+                    "image_path": "images/gemstones/image-16.png-1697798020773.png"
+                },
+                {
+                    "id": 7,
+                    "name": "Ruby",
+                    "sort_code": "July",
+                    "price": "37",
+                    "image_path": "images/gemstones/image-7.png-1697798423028.png"
+                },
+                {
+                    "id": 8,
+                    "name": "Peridot",
+                    "sort_code": "August",
+                    "price": "39",
+                    "image_path": "images/gemstones/image-8.png-1697798232761.png"
+                },
+                {
+                    "id": 9,
+                    "name": "Saphhair",
+                    "sort_code": "September",
+                    "price": "40",
+                    "image_path": "images/gemstones/image-9.png-1697798352486.png"
+                },
+                {
+                    "id": 10,
+                    "name": "Pink Tourmaline",
+                    "sort_code": "October",
+                    "price": "42",
+                    "image_path": "images/gemstones/image-15.png-1697797928752.png"
+                },
+                {
+                    "id": 11,
+                    "name": "Citrin",
+                    "sort_code": "November",
+                    "price": "20",
+                    "image_path": "images/gemstones/image-13.png-1697797469837.png"
+                },
+                {
+                    "id": 12,
+                    "name": "Blue Topaz",
+                    "sort_code": "December",
+                    "price": "38",
+                    "image_path": "images/gemstones/image-14.png-1697797819969.png"
+                }
+            ]
+        },
+        {
+            "title": "Birthstone 5",
+            "gemstone": [
+                {
+                    "id": 1,
+                    "name": "Garnet",
+                    "sort_code": "January",
+                    "price": "20",
+                    "image_path": "images/gemstones/image-1.png-1697796860547.png"
+                },
+                {
+                    "id": 2,
+                    "name": "Amethst",
+                    "sort_code": "February",
+                    "price": "23",
+                    "image_path": "images/gemstones/image-2.png-1697797209774.png"
+                },
+                {
+                    "id": 3,
+                    "name": "Aquamarine",
+                    "sort_code": "March",
+                    "price": "25",
+                    "image_path": "images/gemstones/image-3.png-1697797220197.png"
+                },
+                {
+                    "id": 4,
+                    "name": "White Topaz",
+                    "sort_code": "April",
+                    "price": "28",
+                    "image_path": "images/gemstones/image-4.png-1697798368643.png"
+                },
+                {
+                    "id": 5,
+                    "name": "Emerald",
+                    "sort_code": "May",
+                    "price": "31",
+                    "image_path": "images/gemstones/image-5.png-1697798332243.png"
+                },
+                {
+                    "id": 6,
+                    "name": "Alexandrite",
+                    "sort_code": "June",
+                    "price": "33",
+                    "image_path": "images/gemstones/image-16.png-1697798020773.png"
+                },
+                {
+                    "id": 7,
+                    "name": "Ruby",
+                    "sort_code": "July",
+                    "price": "37",
+                    "image_path": "images/gemstones/image-7.png-1697798423028.png"
+                },
+                {
+                    "id": 8,
+                    "name": "Peridot",
+                    "sort_code": "August",
+                    "price": "39",
+                    "image_path": "images/gemstones/image-8.png-1697798232761.png"
+                },
+                {
+                    "id": 9,
+                    "name": "Saphhair",
+                    "sort_code": "September",
+                    "price": "40",
+                    "image_path": "images/gemstones/image-9.png-1697798352486.png"
+                },
+                {
+                    "id": 10,
+                    "name": "Pink Tourmaline",
+                    "sort_code": "October",
+                    "price": "42",
+                    "image_path": "images/gemstones/image-15.png-1697797928752.png"
+                },
+                {
+                    "id": 11,
+                    "name": "Citrin",
+                    "sort_code": "November",
+                    "price": "20",
+                    "image_path": "images/gemstones/image-13.png-1697797469837.png"
+                },
+                {
+                    "id": 12,
+                    "name": "Blue Topaz",
+                    "sort_code": "December",
+                    "price": "38",
+                    "image_path": "images/gemstones/image-14.png-1697797819969.png"
+                }
+            ]
+        }
+    ],
+    "ring_head_metal_tone": {
+        "title": "Crown Metal Tone",
+        "component": [
+            {
+                "id": 1,
+                "sort_code": "WG",
+                "name": "White Gold",
+                "image_path": "images/metalTone/image-WG.svg-1693728466105.svg",
+                "id_metal": 1
+            },
+            {
+                "id": 2,
+                "name": "Yellow Gold",
+                "sort_code": "YG",
+                "image_path": "images/metalTone/image-YG.svg-1693728478134.svg",
+                "id_metal": 1
+            },
+            {
+                "id": 3,
+                "name": "Rose Gold",
+                "sort_code": "RG",
+                "image_path": "images/metalTone/image-RG.svg-1693728490422.svg",
+                "id_metal": 1
+            }
+        ]
+    },
+    "ring_head_side_ring": {
+        "title": "Matching Band",
+        "component": [
+            {
+                "id": 1,
+                "sort_code": "BAND",
+                "name": "BD-01-RN-001",
+                "image_path": "/assets/images/demo/BD-01-RN-001.png",
+                "id_metal": 1
+            },
+            {
+                "id": 2,
+                "name": "BD-02-RN-001",
+                "sort_code": "BAND",
+                "image_path": "/assets/images/demo/BD-02-RN-001.png",
+                "id_metal": 1
+            },
+            {
+                "id": 3,
+                "name": "BD-03-RN-001",
+                "sort_code": "BAND",
+                "image_path": "/assets/images/demo/BD-03-RN-001.png",
+                "id_metal": 1
+            },
+            {
+                "id": 4,
+                "name": "BD-04-RN-001",
+                "sort_code": "BAND",
+                "image_path": "/assets/images/demo/BD-04-RN-001.png",
+                "id_metal": 1
+            },
+            {
+                "id": 5,
+                "name": "BD-05-RN-001",
+                "sort_code": "BAND",
+                "image_path": "/assets/images/demo/BD-05-RN-001.png",
+                "id_metal": 1
+            },
+            {
+                "id": 6,
+                "name": "BD-06-RN-001",
+                "sort_code": "BAND",
+                "image_path": "/assets/images/demo/BD-06-RN-001.png",
+                "id_metal": 1
+            }
+        ]
+    },
+    "productList": [
+        {
+            "id": 1,
+            "name": "RN-001",
+            "sku": "RN-001",
+            "slug": "RN-001",
+            "sort_description": "Birth Stone Pendant",
+            "long_description": "Birth Stone Pendant",
+            "product_price": "3904.800",
+            "is_wishlist": "0",
+            "image_path": "/assets/images/demo/RN-001.png",
+            "glb_path": "RN-001",
+            "eng_glb_path": "RN-001",
+            "gemstone_glb_name": {
+                "one": "Gem_1",
+                "two": "Gem_2",
+                "three": "Gem_3",
+                "four": "Gem_4",
+                "five": "Gem_5"
+            },
+            "dataone": [
+                {
+                    "title": "Birthstone 1",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Birthstone 2",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Birthstone 3",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Birthstone 4",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Birthstone 5",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                }
+            ],
+            "metal_tone": {
+                "title": "Metal Tone",
+                "component": [
+                    {
+                        "id": 1,
+                        "sort_code": "WG",
+                        "name": "White Gold",
+                        "image_path": "images/metalTone/image-WG.svg-1693728466105.svg"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Yellow Gold",
+                        "sort_code": "YG",
+                        "image_path": "images/metalTone/image-YG.svg-1693728478134.svg"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Rose Gold",
+                        "sort_code": "RG",
+                        "image_path": "images/metalTone/image-RG.svg-1693728490422.svg"
+                    }
+                ]
+            },
+            "metal": {
+                "title": "Metal",
+                "component": [
+                    {
+                        "id": 1,
+                        "is_karat": 1,
+                        "karat": 9,
+                        "sort_code": "9ct",
+                        "price": 5005,
+                        "name": "Gold"
+                    },
+                    {
+                        "id": 3,
+                        "is_karat": 0,
+                        "karat": null,
+                        "sort_code": "SL",
+                        "price": 8907,
+                        "name": "Silver"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "name": "RN-002",
+            "sku": "RN-002",
+            "slug": "RN-002",
+            "sort_description": "Birth Stone Pendant",
+            "long_description": "Birth Stone Pendant",
+            "product_price": "3904.800",
+            "is_wishlist": "0",
+            "image_path": "/assets/images/demo/RN-002.png",
+            "glb_path": "RN-002",
+            "eng_glb_path": "RN-002",
+            "gemstone_glb_name": {
+                "one": "Gem_1",
+                "two": "Gem_2",
+                "three": "Gem_3",
+                "four": "Gem_4",
+                "five": "Gem_5"
+            },
+            "dataone": [
+                {
+                    "title": "Birthstone 1",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Birthstone 2",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Birthstone 3",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Birthstone 4",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Birthstone 5",
+                    "gemstone": [
+                        {
+                            "id": 1,
+                            "name": "Jan",
+                            "sort_code": "GARNET",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/1.png"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Feb",
+                            "sort_code": "AMETHYST",
+                            "price": "23",
+                            "image": "/assets/images/config_image/gemstone/2.png"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mar",
+                            "sort_code": "AQUAMARINE",
+                            "price": "25",
+                            "image": "/assets/images/config_image/gemstone/3.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Apr",
+                            "sort_code": "WHITE TOPAZ",
+                            "price": "28",
+                            "image": "/assets/images/config_image/gemstone/4.png"
+                        },
+                        {
+                            "id": 5,
+                            "name": "May",
+                            "sort_code": "EMERALD",
+                            "price": "31",
+                            "image": "/assets/images/config_image/gemstone/5.png"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Jun",
+                            "sort_code": "ALEXANDRITE",
+                            "price": "33",
+                            "image": "/assets/images/config_image/gemstone/6.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Jul",
+                            "sort_code": "RUBY",
+                            "price": "37",
+                            "image": "/assets/images/config_image/gemstone/7.png"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Aug",
+                            "sort_code": "PERIDOT",
+                            "price": "39",
+                            "image": "/assets/images/config_image/gemstone/8.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sep",
+                            "sort_code": "SAPHHAIR",
+                            "price": "40",
+                            "image": "/assets/images/config_image/gemstone/9.png"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Oct",
+                            "sort_code": "PINK TOURMALINE",
+                            "price": "42",
+                            "image": "/assets/images/config_image/gemstone/10.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Nov",
+                            "sort_code": "CITRIN",
+                            "price": "20",
+                            "image": "/assets/images/config_image/gemstone/11.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Dec",
+                            "sort_code": "BLUE TOPAZ",
+                            "price": "38",
+                            "image": "/assets/images/config_image/gemstone/12.png"
+                        }
+                    ]
+                }
+            ],
+            "metal_tone": {
+                "title": "Metal Tone",
+                "component": [
+                    {
+                        "id": 1,
+                        "sort_code": "WG",
+                        "name": "White Gold",
+                        "image_path": "images/metalTone/image-WG.svg-1693728466105.svg"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Yellow Gold",
+                        "sort_code": "YG",
+                        "image_path": "images/metalTone/image-YG.svg-1693728478134.svg"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Rose Gold",
+                        "sort_code": "RG",
+                        "image_path": "images/metalTone/image-RG.svg-1693728490422.svg"
+                    }
+                ]
+            },
+            "metal": {
+                "title": "Metal",
+                "component": [
+                    {
+                        "id": 1,
+                        "is_karat": 1,
+                        "karat": 9,
+                        "sort_code": "9ct",
+                        "price": 5005,
+                        "name": "Gold"
+                    },
+                    {
+                        "id": 3,
+                        "is_karat": 0,
+                        "karat": null,
+                        "sort_code": "SL",
+                        "price": 8907,
+                        "name": "Silver"
+                    }
+                ]
+            }
+        }
+    ]
+}

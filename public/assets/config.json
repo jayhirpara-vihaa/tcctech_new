@@ -1,0 +1,73 @@
+{
+    "objects": [
+        {
+            "items": [
+                "https://tcctech-staging.s3.ap-south-1.amazonaws.com/configurator/objects/Heads/HD-SH-EM-1.00-15502.glb",
+                "https://tcctech-staging.s3.ap-south-1.amazonaws.com/configurator/objects/Heads/HD-HH-EM-1.00-15467.glb",
+                "https://tcctech-staging.s3.ap-south-1.amazonaws.com/configurator/objects/Heads/HD-HH-OV-1.00-15460.glb",
+                "https://tcctech-staging.s3.ap-south-1.amazonaws.com/configurator/objects/Heads/HD-HH-RD-1.00-15453.glb",
+                "https://tcctech-staging.s3.ap-south-1.amazonaws.com/configurator/objects/Heads/HD-SH-OV-1.00-15495.glb",
+                "https://tcctech-staging.s3.ap-south-1.amazonaws.com/configurator/objects/Heads/HD-SH-RD-1.00-15488.glb"
+            ],
+            "prefix": "Heads/",
+            "name": "Heads",
+            "title": "Heads",
+            "icon": "",
+            "icons": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "titles": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "items": [
+                "https://tcctech-staging.s3.ap-south-1.amazonaws.com/configurator/objects/Shanks/SH-PL-PL-16300.glb",
+                "https://tcctech-staging.s3.ap-south-1.amazonaws.com/configurator/objects/Shanks/SH-PL-UM-16426.glb"
+            ],
+            "prefix": "Shanks/",
+            "name": "Shanks",
+            "title": "",
+            "icon": "",
+            "icons": [
+                "",
+                ""
+            ],
+            "titles": [
+                "",
+                ""
+            ]
+        },
+        {
+            "items": [
+                "https://tcctech-staging.s3.ap-south-1.amazonaws.com/configurator/objects/Bands/BN-PL-PL-16354.glb",
+                "https://tcctech-staging.s3.ap-south-1.amazonaws.com/configurator/objects/Bands/BN-PL-UM-16356.glb"
+            ],
+            "icons": [
+                "",
+                ""
+            ],
+            "titles": [
+                "",
+                ""
+            ],
+            "prefix": "Bands/",
+            "name": "Bands",
+            "icon": "",
+            "title": ""
+        }
+    ],
+    "materials": [],
+    "type": "VariationConfiguratorPlugin",
+    "baseUrl": "https://tcctech-staging.s3.ap-south-1.amazonaws.com/webgi/"
+}

@@ -1,0 +1,91 @@
+{
+    "objects": [
+        {
+            "items": [
+                "https://bettech.vercel.app/assets/DemoGlb/BE210-001.glb",
+                "https://bettech.vercel.app/assets/DemoGlb/BE210E-001.glb",
+                "https://bettech.vercel.app/assets/DemoGlb/BE2M3420-001.glb",
+                "https://bettech.vercel.app/assets/DemoGlb/BE2M1056-001.glb",
+                "https://bettech.vercel.app/assets/DemoGlb/BE2D23-001.glb"
+            ],
+            "prefix": "001/",
+            "name": "001",
+            "title": "001",
+            "icon": "",
+            "icons": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "titles": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "items": [
+                "https://bettech.vercel.app/assets/DemoGlb/BE2D543-002.glb",
+                "https://bettech.vercel.app/assets/DemoGlb/BE2D3315-002.glb",
+                "https://bettech.vercel.app/assets/DemoGlb/BE2D31841-002.glb",
+                "https://bettech.vercel.app/assets/DemoGlb/BE2D7890-002.glb"
+            ],
+            "prefix": "002/",
+            "name": "002",
+            "title": "002",
+            "icon": "",
+            "icons": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "titles": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "items": [
+                "https://dr2mfr65joexd.cloudfront.net/configurator/BET_3D/BE2D3391_compressed.glb",
+                "https://dr2mfr65joexd.cloudfront.net/configurator/BET_3D/BET-RN-R-16222_compressed.glb",
+                "https://bettech.vercel.app/assets/DemoGlb/BE2D3315-002.glb",
+                "https://bettech.vercel.app/assets/DemoGlb/BE2D31841-002.glb"
+            ],
+            "prefix": "compressed/",
+            "name": "compressed",
+            "title": "compressed",
+            "icon": "",
+            "icons": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "titles": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "materials": [],
+    "type": "VariationConfiguratorPlugin"
+}

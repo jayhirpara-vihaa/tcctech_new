@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Gift Package",
+        "slug": "",
+        "text": "We Develope And Create Custom Jewels.",
+        "Button": "",
+        "image": "/assets/TCCimage/H5_images_05.jpg",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Gift Package",
+        "slug": "/",
+        "text": "",
+        "Button": "View More",
+        "image": "/assets/TCCimage/H5_images_04.jpg",
+        "tags": [
+            ""
+        ]
+    }
+]

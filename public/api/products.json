@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1,
+    "sku": "N/A",
+    "title": "Petite Twisted Vine (1/8 ct. tw.)",
+    "selectedColor": "Rose_Gold",
+    "name": "Nova Halo Diamond Engagement Ring",
+    "description": "Mesmerizing ribbons of metal and pavé diamonds twist around the band and center gem of this unique halo ring.",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": false,
+    "image": {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/diamond_ring_vto/MH/BE1D3242_rose_Round_top_75_carat.png",
+      "original": "https://image.brilliantearth.com/media/carat_image/84/BE1D3242_RD_75ct_rose_side1.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "Product_1": [
+      {
+        "Yellow_Gold": {
+          "Title": "18K Yellow Gold Petite Twisted Vine (1/8 ct. tw.)",
+          "img1": "https://image.brilliantearth.com/media/diamond_ring_vto/39/BE1D16196_yellow_Round_top_75_carat.png",
+          "img2": "https://image.brilliantearth.com/media/carat_image/7D/BE1D16196_RD_75ct_yellow_side2.jpg",
+          "Price": "$1090"
+        },
+        "Rose_Gold": {
+          "Title": "14K Rose Gold Petite Twisted Vine (1/8 ct. tw.)",
+          "img1": "https://image.brilliantearth.com/media/diamond_ring_vto/MH/BE1D3242_rose_Round_top_75_carat.png",
+          "img2": "https://image.brilliantearth.com/media/carat_image/84/BE1D3242_RD_75ct_rose_side1.jpg",
+          "Price": "$1090"
+        },
+        "White_Gold": {
+          "Title": "Petite Twisted Vine (1/8 ct. tw.)",
+          "img1": "https://image.brilliantearth.com/media/diamond_ring_vto/XB/BE1D16196_white_Round_top_75_carat.png",
+          "img2": "https://image.brilliantearth.com/media/carat_image/9A/BE1D16196_RD_75ct_white_side2.jpg",
+          "Price": "$1090"
+        },
+        "Platinum": {
+          "Title": "Platinum Petite Twisted Vine (1/8 ct. tw.)",
+          "img1": "https://image.brilliantearth.com/media/diamond_ring_vto/XB/BE1D16196_white_Round_top_75_carat.png",
+          "img2": "https://image.brilliantearth.com/media/carat_image/9A/BE1D16196_RD_75ct_white_side2.jpg",
+          "Price": "$1390"
+        }
+      }
+    ],
+    "price": "",
+    "sale_price": 1190,
+    "shape": [
+      {
+        "id": 1,
+        "value": "/assets/TCCimage/Shape/cushion.svg",
+        "color": "cushion"
+      },
+      {
+        "id": 2,
+        "value": "/assets/TCCimage/Shape/emerald.svg",
+        "color": "emerald"
+      },
+      {
+        "id": 3,
+        "value": "/assets/TCCimage/Shape/heart.svg",
+        "color": "heart"
+      },
+      {
+        "id": 4,
+        "value": "/assets/TCCimage/Shape/oval.svg",
+        "color": "oval"
+      },
+      {
+        "id": 5,
+        "value": "/assets/TCCimage/Shape/pear.svg",
+        "color": "pear"
+      },
+      {
+        "id": 6,
+        "value": "/assets/TCCimage/Shape/princess.svg",
+        "color": "princess"
+      },
+      {
+        "id": 6,
+        "value": "/assets/TCCimage/Shape/round.svg",
+        "color": "round"
+      }
+    ],
+    "variations": [
+      {
+        "id": 1,
+        "value": "/assets/TCCimage/MetalTone/Gold.svg",
+        "color": "Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "/assets/TCCimage/MetalTone/Silver.svg",
+        "color": "Silver",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "/assets/TCCimage/MetalTone/Rose_gold.svg",
+        "color": "Rose_Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "/assets/TCCimage/MetalTone/Platinum.svg",
+        "color": "Platinum",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ],
+    "meta": [
+      {
+        "id": 1,
+        "title": "Product Details",
+        "content": "Our Customer Experience Team is available 7 days a week and we offer 2 ways to get in contact.Email and Chat . We try to reply quickly, so you need not to wait too long for a response!."
+      },
+      {
+        "id": 2,
+        "title": "Additional Information",
+        "content": "Please read the documentation carefully . We also have some online video tutorials regarding this issue . If the problem remains, Please Open a ticket in the support forum"
+      },
+      {
+        "id": 3,
+        "title": "Customer Reviews",
+        "content": "At first, Please check your internet connection . We also have some online video tutorials regarding this issue . If the problem remains, Please Open a ticket in the support forum."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sku": "N/A",
+    "selectedColor": "Gold",
+    "title": "Marseille (1/3 ct. tw.)",
+    "name": "H&M Global Desi",
+    "description": "Blue solid woven regular top, curved hem with tassell detailing has shoulder straps, and sleeveless",
+    "slug": "Marseille-diamond-ring",
+    "image": {
+      "id": 1,
+      "thumbnail": "https://image.brilliantearth.com/media/product_new_images/11/BE2D835_yellow_top.jpg",
+      "original": "https://image.brilliantearth.com/media/product_images/XI/BE1D2468_yellow_side.jpg"
+    },
+    "Product_1": [
+      {
+        "Yellow_Gold": {
+          "Title": "18K Yellow Gold Petite Twisted Vine (1/8 ct. tw.)",
+          "img1": "https://image.brilliantearth.com/media/diamond_ring_vto/39/BE1D16196_yellow_Round_top_75_carat.png",
+          "img2": "https://image.brilliantearth.com/media/carat_image/7D/BE1D16196_RD_75ct_yellow_side2.jpg",
+          "Price": "$1090"
+        },
+        "Rose_Gold": {
+          "Title": "14K Rose Gold Petite Twisted Vine (1/8 ct. tw.)",
+          "img1": "https://image.brilliantearth.com/media/diamond_ring_vto/MH/BE1D3242_rose_Round_top_75_carat.png",
+          "img2": "https://image.brilliantearth.com/media/carat_image/84/BE1D3242_RD_75ct_rose_side1.jpg",
+          "Price": "$1090"
+        },
+        "White_Gold": {
+          "Title": "Petite Twisted Vine (1/8 ct. tw.)",
+          "img1": "https://image.brilliantearth.com/media/diamond_ring_vto/XB/BE1D16196_white_Round_top_75_carat.png",
+          "img2": "https://image.brilliantearth.com/media/carat_image/9A/BE1D16196_RD_75ct_white_side2.jpg",
+          "Price": "$1090"
+        },
+        "Platinum": {
+          "Title": "Platinum Petite Twisted Vine (1/8 ct. tw.)",
+          "img1": "https://image.brilliantearth.com/media/diamond_ring_vto/XB/BE1D16196_white_Round_top_75_carat.png",
+          "img2": "https://image.brilliantearth.com/media/carat_image/9A/BE1D16196_RD_75ct_white_side2.jpg",
+          "Price": "$1390"
+        }
+      }
+    ],
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-22-1.png",
+        "original": "/assets/images/products/p-22-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-22-2.png",
+        "original": "/assets/images/products/p-22-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-12-3.png",
+        "original": "/assets/images/products/p-12-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-12-4.png",
+        "original": "/assets/images/products/p-12-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 1960,
+    "shape": [
+      {
+        "id": 1,
+        "value": "/assets/TCCimage/Shape/cushion.svg",
+        "color": "cushion"
+      },
+      {
+        "id": 2,
+        "value": "/assets/TCCimage/Shape/emerald.svg",
+        "color": "emerald"
+      },
+      {
+        "id": 3,
+        "value": "/assets/TCCimage/Shape/heart.svg",
+        "color": "heart"
+      },
+      {
+        "id": 4,
+        "value": "/assets/TCCimage/Shape/oval.svg",
+        "color": "oval"
+      },
+      {
+        "id": 5,
+        "value": "/assets/TCCimage/Shape/pear.svg",
+        "color": "pear"
+      },
+      {
+        "id": 6,
+        "value": "/assets/TCCimage/Shape/princess.svg",
+        "color": "princess"
+      },
+      {
+        "id": 6,
+        "value": "/assets/TCCimage/Shape/round.svg",
+        "color": "round"
+      }
+    ],
+    "variations": [
+      {
+        "id": 1,
+        "value": "/assets/TCCimage/MetalTone/Gold.svg",
+        "color": "Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "/assets/TCCimage/MetalTone/Silver.svg",
+        "color": "Silver",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "/assets/TCCimage/MetalTone/Rose_gold.svg",
+        "color": "Rose_Gold",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "/assets/TCCimage/MetalTone/Platinum.svg",
+        "color": "Platinum",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ],
+    "meta": [
+      {
+        "id": 1,
+        "title": "Product Details",
+        "content": "Our Customer Experience Team is available 7 days a week and we offer 2 ways to get in contact.Email and Chat . We try to reply quickly, so you need not to wait too long for a response!."
+      },
+      {
+        "id": 2,
+        "title": "Additional Information",
+        "content": "Please read the documentation carefully . We also have some online video tutorials regarding this issue . If the problem remains, Please Open a ticket in the support forum"
+      },
+      {
+        "id": 3,
+        "title": "Customer Reviews",
+        "content": "At first, Please check your internet connection . We also have some online video tutorials regarding this issue . If the problem remains, Please Open a ticket in the support forum."
+      }
+    ]
+  }
+]

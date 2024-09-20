@@ -1,0 +1,124 @@
+{
+    "center_diamond": {
+        "title": "Center Stone",
+        "component": [
+            {
+                "id": 1,
+                "name": "Diamond",
+                "sort_code": "D",
+                "diamond_type": 1,
+                "price": 1001,
+                "image": "/assets/images/config_image/center-diamond/diamond.png"
+            },
+            {
+                "id": 2,
+                "name": "Laboratory Grown Diamond",
+                "sort_code": "LD",
+                "diamond_type": 2,
+                "price": 1001,
+                "image": "/assets/images/config_image/center-diamond/diamond.png"
+            }
+        ]
+    },
+    "center_diamond_clarity": [
+        {
+            "id": 1,
+            "color_name": "F",
+            "sort_code": "LD",
+            "clarity_name": "SI",
+            "value": "IGI Certified",
+            "price": 200
+        },
+        {
+            "id": 2,
+            "color_name": "F",
+            "sort_code": "LD",
+            "clarity_name": "VVS",
+            "value": "GIA Premium Certified",
+            "price": 300
+        },
+        {
+            "id": 3,
+            "color_name": "H",
+            "sort_code": "ND",
+            "clarity_name": "SI",
+            "price": 400,
+            "value": "IGI Certified"
+        },
+        {
+            "id": 4,
+            "color_name": "G",
+            "sort_code": "ND",
+            "price": 350,
+            "clarity_name": "VS",
+            "value": "GIA Premium Certified"
+        }
+    ],
+    "diamond_certify": {
+        "component": [
+            {
+                "id": 1,
+                "name": "IGI Certified"
+            },
+            {
+                "id": 2,
+                "name": "GIA Premium Certified"
+            }
+        ]
+    },
+    "side_setting": {
+        "title": "Side Setting",
+        "component": [
+            {
+                "id": 1,
+                "price": 1074,
+                "sort_code": "PL",
+                "id_shank": 1,
+                "is_diamond": 0,
+                "design_identifier": "plain",
+                "image_path": "static/settings/plain.png",
+                "name": "Plain"
+            },
+            {
+                "id": 5,
+                "price": 2726,
+                "sort_code": "UM",
+                "id_shank": 1,
+                "is_diamond": 1,
+                "design_identifier": "u micro",
+                "image_path": "static/settings/umicro.png",
+                "name": "Micro pave"
+            },
+            {
+                "id": 6,
+                "price": 2846,
+                "sort_code": "PP",
+                "id_shank": 1,
+                "is_diamond": 1,
+                "design_identifier": "u micro",
+                "image_path": "static/settings/plateprong.png",
+                "name": "Claw set"
+            },
+            {
+                "id": 7,
+                "price": 1947,
+                "sort_code": "PV",
+                "id_shank": 1,
+                "is_diamond": 1,
+                "design_identifier": "u micro",
+                "image_path": "static/settings/pave.png",
+                "name": "Pave"
+            },
+            {
+                "id": 8,
+                "price": 1836,
+                "sort_code": "CH",
+                "id_shank": 1,
+                "is_diamond": 1,
+                "design_identifier": "u micro",
+                "image_path": "static/settings/channel.png",
+                "name": "Channel set"
+            }
+        ]
+    }
+}

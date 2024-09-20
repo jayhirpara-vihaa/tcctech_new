@@ -1,0 +1,4429 @@
+{
+  "data": [
+    {
+      "metalid": 1,
+      "metalname": "Gold",
+      "metalcaret": [{}],
+      "metaltone": [
+        {
+          "toneId": 1,
+          "name": "WG",
+          "Oval": {
+            "images": [
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-WG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-WG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-WG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-WG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-WG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-WG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-WG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-WG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-WG-RV-WB.png"
+              }
+            ]
+          },
+          "Pear": {
+            "images": [
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-WG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-WG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-WG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-RV-WB.png"
+              }
+            ]
+          },
+          "Round": {
+            "images": [
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-WG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-WG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-WG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-WG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-WG-RV-WB.png"
+              }
+            ]
+          }
+        },
+        {
+          "toneId": 2,
+          "name": "YG",
+          "Oval": {
+            "images": [
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-YG-RV-WB.png"
+              }
+            ]
+          },
+          "Pear": {
+            "images": [
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-YG-RV-WB.png"
+              }
+            ]
+          },
+          "Round": {
+            "images": [
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-YG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-YG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-YG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-YG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-RD-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-UM-SH-PE-2.00-YG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-UM-SH-PE-2.00-YG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-UM-SH-PE-2.00-YG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-UM-SH-PE-2.00-YG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-UM-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-UM-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-UM-SH-PE-2.00-WG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-UM-SH-PE-2.00-WG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-UM-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-UM-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-YG-RV-WB.png"
+              }
+            ]
+          }
+        },
+        {
+          "toneId": 3,
+          "name": "RG",
+          "Oval": {
+            "images": [
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19107-PL-SH-OV-1.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19347-UP-SH-OV-1.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16733-PL-SH-OV-1.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16793-UM-SH-OV-1.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19109-PL-SH-OV-2.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19349-UP-SH-OV-2.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16735-PL-SH-OV-2.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16795-UM-SH-OV-2.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-RG-RV-WB.png"
+              }
+            ]
+          },
+          "Pear": {
+            "images": [
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19101-PL-SH-PE-1.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19341-UP-SH-PE-1.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16751-PL-SH-PE-1.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16811-UM-SH-PE-1.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19103-PL-SH-PE-2.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19343-UP-SH-PE-2.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16753-PL-SH-PE-2.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16813-UM-SH-PE-2.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-RG-RV-WB.png"
+              }
+            ]
+          },
+          "Round": {
+            "images": [
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-RG-T2V.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-RG-RV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-RG-PV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-RG-FV.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-PE-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-PE-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-PE-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-PE-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-PE-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-PE-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-PE-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-PE-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-PE-1.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19089-PL-SH-PE-1.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19329-UP-SH-PE-1.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16727-PL-SH-PE-1.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16787-UM-SH-PE-1.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19091-PL-SH-PE-2.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-19331-UP-SH-PE-2.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16729-PL-SH-PE-2.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-YG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-YG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-WG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-WG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-RG-YG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-RG-YG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-RG-WG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-RG-WG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-RG-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-RN-CR-16789-UM-SH-PE-2.00-RG-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-RG-RV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-RG-TV-WB.png"
+              },
+              {
+                "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-RG-RV-WB.png"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "metalid": 2,
+      "metalname": "Silver",
+      "Oval": {
+        "images": [
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-WG-FV.png"
+          }
+        ]
+      },
+      "Pear": {
+        "images": [
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-FV.png"
+          }
+        ]
+      },
+      "Round": {
+        "images": [
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-FV.png"
+          }
+        ]
+      }
+    },
+    {
+      "metalid": 3,
+      "metalname": "Platinum",
+      "Oval": {
+        "images": [
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15566-CDPL15554M-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15692-CDUP15680M-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15495-OVSH1.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15497-OVSH2.00-WG-FV.png"
+          }
+        ]
+      },
+      "Pear": {
+        "images": [
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16325-V2PESH1.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15516-PESH1.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15568-CDPL15554O-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15694-CDUP15680O-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-FV.png"
+          }
+        ]
+      },
+      "Round": {
+        "images": [
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15572-CDPL15554S-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15488-RDSH1.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15698-CDUP15680S-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16300-PLPL16297D-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16426-PLUP16423D-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15490-RDSH2.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15571-CDPL15554R-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-16327-V2PESH2.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-15697-CDUP15680R-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16298-PLPL16297B-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-HD-CR-15518-PESH2.00-WG-FV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-T2V.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-RV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-PV.png"
+          },
+          {
+            "image_path": "products/20230421T103746Z-001/DLG-SH-CR-16424-PLUP16423B-WG-FV.png"
+          }
+        ]
+      }
+    }
+  ]
+}
